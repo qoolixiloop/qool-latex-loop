@@ -50,6 +50,10 @@ not yet shared
   * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
 * emojis list
   * [emojis](https://gist.github.com/rxaviers/7360908)
+* grip preview tool
+  * [grip on GitHub](https://github.com/joeyespo/grip)
+* pandoc document conversion tool
+  * [pandoc document converter](https://pandoc.org/)
 
 
 ------------------------

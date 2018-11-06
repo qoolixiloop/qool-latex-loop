@@ -1,0 +1,78 @@
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# file:     .gitignore                                                        #
+# author:   Roland Benz, Zurich, Switzerland                                  #
+# date:     05.Nov.2018                                                       #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# IGNORE PATTERN                                                              #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# ignore filesnames in current directory: 
+# IGNORE:   "./DIRCURRENT/FILENAME.filetype"
+# NOT:      "../sub_dir/filename.filetype"
+/TODO
+
+# ignore directorynames in ANY directory: 
+# IGNORE:   "../DIRNAME/.." 
+pictures/
+build/
+
+# ignore filetypes in directoryname:
+# IGNORE:   "./DIRNAME/*.FILETYPE", 
+# NOT:  "./current_directory/subdirectory/filname.filetype"
+doc/*.txt
+
+# ignore filetypes in ANY directory UNDER directoryname: 
+# IN:   "./DIRNAME/../*.FILETYPE
+# NOT:  "../subdir/DIRNAME/../*.FILETYPE
+doc/**/*.pdf
+
+# ignore all filesnames in ANY directory ending in a certain filename ending:
+# IGNORE:   "*.filename_ending"
+*~
+
+# ignore filenames in ANY directory starting with (.)
+# IN:   ".filename_pattern"
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+.~lock.*#
+*.swp
+*.a
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# REVERSE ABOVE IGNORE PATTERN                                                #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# track filename.filetype in ANY directory
+# even though you're ignoring .filetype files above
+!lib.a
+
+
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# IGNORE BUNCH OF APP SPECIFIC PATTERNS                                       #
+# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+
+# # # #
+# VIM # 
+# # # #
+
+# Swap
+[._]*.s[a-v][a-z]
+[._]*.sw[a-p]
+[._]s[a-rt-v][a-z]
+[._]ss[a-gi-z]
+[._]sw[a-p]
+# Session
+Session.vim
+# Temporary
+.netrwhist
+*~
+# Auto-generated tag files
+tags
+# Persistent undo
+[._]*.un~
+
