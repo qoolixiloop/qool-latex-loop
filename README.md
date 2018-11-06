@@ -26,14 +26,30 @@
 * you will get some links to official references
   * so you don't have to scroll through googles 1.5 trillion hits
 
-# Download the files
-not yet done
+# Download my markdown files
+not yet shared
 
 # Instruction using vim and grip
-not yet done
+* install grip 
+  * $ sudo apt get grip  " on Ubuntu
+* move to your folder containing your md files
+  * $ cd /my_md_directory/
+* start grip
+  * $ grip my_md_file.md
+* open your browser and enter following URL
+  * http://localhost:6419/ 
+* That's it! if you want to quit or change your folder just stop the server by pressing
+  * Ctrl-D
+* Now you can move to your other folder containing md files and start grip again
 
 # Links
-not yet done
+* main table of contents
+  * [writing on github](https://help.github.com/categories/writing-on-github/)
+* most useful pages
+  * [basic writing and formatting syntag](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+  * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
+* emojis list
+  * [emojis](https://gist.github.com/rxaviers/7360908)
 
 
 ------------------------
