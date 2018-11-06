@@ -1,1 +1,1 @@
-# qool-latex-loop
+# qool-markdown-loop
