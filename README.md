@@ -2,7 +2,7 @@
 
 ## Welcome Dear Friend!  
 * you are visiting the qoolixiloop markdown repository
-* read on if you like to find out on how you can profit from it
+* read on if you like to find out how you can profit from it
 * enjoy!
 * :sparkles:
 
@@ -36,5 +36,6 @@ not yet done
 not yet done
 
 
-----------------------
-qoolixiloop 6.Nov.2018
+------------------------
+qoolixiloop 6. Nov. 2018
+ 
