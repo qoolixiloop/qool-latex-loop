@@ -12,8 +12,8 @@
   * but need some examples as inspiration 
 * because you want to write wiki pages on GitHub
   * but don't know how to start
-* because you wand to write your code in Vim 
-  * but are missing a preview
+* because you want to write your code in Vim 
+  * but you are missing an html preview (that's what your browser reads)
 * found anything?
 * :dizzy:
 
@@ -45,7 +45,7 @@ not yet shared
 # Links
 * main table of contents
   * [writing on github](https://help.github.com/categories/writing-on-github/)
-* most useful pages
+* most useful subpages
   * [basic writing and formatting syntag](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
   * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
 * emojis list
