@@ -23,7 +23,18 @@
   * that should serve as an inspiration to get you going quickly
 * you will get advice about the preview (grip)
   * therefore you don't need to read through the plugin description
+* you will get some links to official references
+  * so you don't have to scroll through googles 1.5 trillion hits
+
+# Download the files
+not yet done
+
+# Instruction using vim and grip
+not yet done
+
+# Links
+not yet done
 
 
-#------------------
+----------------------
 qoolixiloop 6.Nov.2018
