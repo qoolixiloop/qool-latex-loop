@@ -25,9 +25,13 @@
   * therefore you don't need to read through the plugin description
 * you will get some links to official references
   * so you don't have to scroll through googles 1.5 trillion hits
+* like christmas!
+* :sparkling_heart:
+
 
 # Download my markdown files
 not yet shared
+
 
 # Instruction using vim and grip
 * install grip 
@@ -41,6 +45,7 @@ not yet shared
 * That's it! if you want to quit or change your folder just stop the server by pressing
   * Ctrl-D
 * Now you can move to your other folder containing md files and start grip again
+  [my wiki page with navigation alternative](https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser)
 
 # Links
 * main table of contents
@@ -48,6 +53,8 @@ not yet shared
 * most useful subpages
   * [basic writing and formatting syntag](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
   * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
+* markdown founder's official site  
+  * [daringfireball](https://daringfireball.net/projects/markdown/)
 * emojis list
   * [emojis](https://gist.github.com/rxaviers/7360908)
 * grip preview tool

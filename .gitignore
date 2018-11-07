@@ -13,6 +13,7 @@
 # IGNORE:   "./DIRCURRENT/FILENAME.filetype"
 # NOT:      "../sub_dir/filename.filetype"
 /TODO
+/SCRATCHPAD
 
 # ignore directorynames in ANY directory: 
 # IGNORE:   "../DIRNAME/.." 
