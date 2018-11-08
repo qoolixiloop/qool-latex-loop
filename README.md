@@ -44,8 +44,8 @@ not yet shared
       * http://localhost:6419/ 
     * That's it! if you want to quit or change your folder just stop the server by pressing
       * Ctrl-D
-    * Now you can move to your other folder containing md files and start grip again
-      [my wiki page with navigation alternative](https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running.md)
+* Now you can move to your other folder containing md files and start grip again
+  [my wiki page with navigation alternative](https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running.md)
 
 # Links
 > * main table of contents
