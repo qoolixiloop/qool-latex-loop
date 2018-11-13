@@ -70,11 +70,11 @@
 
 
 
-### 📜 🛠 Instructions on how to use the Grip markdown preview (and Vim)
+### 📜 Instructions on how to use the Grip markdown preview (and Vim)
 
 <details>
 <summary> 📖  show the instructions </summary>
-📜 🛠
+📜
    
     * Install Grip with:  
          $ sudo apt get grip    "on Ubuntu
@@ -97,7 +97,7 @@
 * Now you can move to an other folder containing .md files and start Grip again. 
 * If you don't like to restart Grip for each file or folder, you can visit my wiki page, which describes a [navigation alternative.](https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser)
 
-📜 🛠
+📜
 </details>
 
 
@@ -174,7 +174,7 @@
 
 
 
-#### About me
+### 👨‍💻 About me
 > <details>
 > <summary> 📖 show content about me</summary>
 >
