@@ -8,13 +8,13 @@
 
 
 ### Why could you profit from this repository?
-> Because you want to write readme.md files on GitHub,    
+> Because you want to write README.md files on GitHub,    
 > but need some examples as inspiration.    
 >
-> Because you want to write wiki pages on GitHub,    
+> Because you want to write Wiki pages on GitHub,    
 > but don't know how to start.    
 >
-> Because you want to write your code in Vim,    
+> Because you want to write your code in your local editor, e.g. Vim,    
 > but you are missing an html preview for your browser.    
 >
 > Did you find anything?    
@@ -38,15 +38,15 @@
 
 
 # Download my markdown files
-> They are not yet ready to be shared. But there is no need to wait, because I am going to share a trick, about how you can access the source code of any markdown web page on GitHub. Let's make three examples:    
+> The files are not yet ready to be shared. But there is no need to wait, because I am going to share a trick, about how you can access the source code of any markdown web page on GitHub. Let's make three examples:    
 >
-1.    Wiki Home.md: This is the URL you see, when you visit my helloworld wiki homepage:    
+1.    Wiki Home.md: This is the URL you see, when you visit my Wiki helloworld homepage:    
 >       https://github.com/qoolixiloop/qool-helloworld-loop/wiki      
 1.1   Just add '/Home.md' as follows:    
 >       https://github.com/qoolixiloop/qool-helloworld-loop/Wiki/Home.md    
-1.2   And you will be relocated to following URL, where you can see the markdown source:    
+1.2   And you will be relocated to the following URL, where you can see the markdown source:    
 >     https://raw.githubusercontent.com/wiki/qoolixiloop/qool-helloworld-loop/Home.md    
-2.    Wiki pages: For all other wiki pages, it is even simpler, because the name of the file is already part of the URL.  
+2.    Wiki pages: For all other Wiki pages, it is even simpler, because the name of the file is already part of the URL.  
       You just need to add '.md' at the end.    
 >      https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running.md    
 3.    README.md: If you like to see the markdown source code of this README page, just enter the follwing URL or log into GitHub and click the "raw" button:    
