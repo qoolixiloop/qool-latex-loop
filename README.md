@@ -3,7 +3,7 @@
 ## Welcome Dear Friend!
 > You are visiting the qoolixiloop markdown repository. Please read on, if you like to find out, how you can profit from it.
 >
-> enjoy!
+> enjoy!   
 > :sparkles:
 
 
@@ -27,12 +27,12 @@
 > These web pages will give you a lot of inspiration to get you going quickly.    
 >
 > You will get instructions about a local browser preview tool.    
-> Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is very near, to what you will see, after uploading it to GitHub.    
+> Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is near, to what you will see, after uploading it to GitHub.    
 >
 > You will get some links to official reference pages.    
-> So you won't have to click through your web search engine's top ten search    results to get your needed "How to".    
+> So you won't have to click through your web search engine's top ten search results to get your needed "How to".    
 >
-> Does it already sound like Christmas?    
+> Does this already sound like Christmas?    
 > Then please read on.    
 > :sparkling_heart:
 
@@ -40,17 +40,17 @@
 # Download my markdown files
 > They are not yet ready to be shared. But there is no need to wait, because I am going to share a trick, about how you can access the source code of any markdown web page on GitHub. Let's make three examples:    
 >
-1.    This is the URL you see, when you visit my helloworld wiki homepage:    
-> >       https://github.com/qoolixiloop/qool-helloworld-loop/wiki      
-1.1   Just add /Home.md as follows:    
-> >       https://github.com/qoolixiloop/qool-helloworld-loop/Wiki/Home.md    
+1.    Wiki Home.md: This is the URL you see, when you visit my helloworld wiki homepage:    
+>       https://github.com/qoolixiloop/qool-helloworld-loop/wiki      
+1.1   Just add '/Home.md' as follows:    
+>       https://github.com/qoolixiloop/qool-helloworld-loop/Wiki/Home.md    
 1.2   And you will be relocated to following URL, where you can see the markdown source:    
-> >      https://raw.githubusercontent.com/wiki/qoolixiloop/qool-helloworld-loop/Home.md    
-2.    For all other wiki pages, it is even simpler, because the name of the file is already part of the URL.  
-      You just need to add ".md" at the end.    
-> >      https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running    
-3.    And if you like to see the markdown source code of this README page, just enter the follwing URL pattern or log into GitHub and click the "raw" button:    
-> >     https://raw.githubusercontent.com/qoolixiloop/qool-markdown-loop/master/README.md    
+>     https://raw.githubusercontent.com/wiki/qoolixiloop/qool-helloworld-loop/Home.md    
+2.    Wiki pages: For all other wiki pages, it is even simpler, because the name of the file is already part of the URL.  
+      You just need to add '.md' at the end.    
+>      https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running.md    
+3.    README.md: If you like to see the markdown source code of this README page, just enter the follwing URL or log into GitHub and click the "raw" button:    
+>     https://raw.githubusercontent.com/qoolixiloop/qool-markdown-loop/master/README.md    
 
 
 # Instructions how to use Grip (and Vim)
