@@ -1,36 +1,78 @@
 # qool-markdown-loop
 
-## Welcome Dear Friend!  
-* you are visiting the qoolixiloop markdown repository
-* read on if you like to find out how you can profit from it
-* enjoy!
-* :sparkles:
+## Welcome Dear Friend!
+> You are visiting the qoolixiloop markdown repository. Please read on, if you like to find out, how you can profit from it.
+>
+> enjoy!
+> :sparkles:
 
 
 ### Why could you profit from this repository?
-* because you want to write readme.md files on GitHub
-  * but need some examples as inspiration 
-* because you want to write wiki pages on GitHub
-  * but don't know how to start
-* because you want to write your code in Vim 
-  * but you are missing an html preview (that's what your browser reads)
-* found anything?
-* :dizzy:
+> Because you want to write readme.md files on GitHub,    
+> > but need some examples as inspiration.    
+>
+> Because you want to write wiki pages on GitHub,    
+> > but don't know how to start.    
+>
+> Because you want to write your code in Vim,    
+> > but you are missing an html preview for your browser.    
+>
+> Did you find anything?    
+> > Then please read on.    
+> :dizzy:
 
 
 ### How qoolixiloop intends to make his friends productive
-* you will get all my readme and wiki markdown files
-  * that should serve as an inspiration to get you going quickly
-* you will get advice about the preview (grip)
-  * therefore you don't need to read through the plugin description
-* you will get some links to official references
-  * so you don't have to scroll through googles 1.5 trillion hits
-* like christmas!
-* :sparkling_heart:
+> You will get all my README and Wiki markdown files.    
+> > These web pages will give you a lot of inspiration to get you going quickly.    
+>
+> You will get instructions about a local browser preview tool.    
+> > Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is very near, to what you will see, after uploading it to GitHub.    
+>
+> You will get some links to official reference pages.    
+> > So you won't have to click through your web search engine's top ten search    results to get your needed "How to".    
+>
+> Does it already sound like Christmas?    
+> > Then please read on.    
+> :sparkling_heart:
 
 
 # Download my markdown files
-not yet shared
+> They are not yet ready to be shared. But there is no need to wait, because I am going to share a trick, about how you can access the source code of any markdown web page on GitHub. Let's make three examples:    
+>
+    This is the URL you see, when you visit my helloworld wiki homepage:    
+        https://github.com/qoolixiloop/qool-helloworld-loop/wiki    
+    Just add /Home.md as follows:    
+        https://github.com/qoolixiloop/qool-helloworld-loop/Wiki/Home.md    
+    And you will be relocated to following URL, where you can see the markdown    source:    
+        https://raw.githubusercontent.com/wiki/qoolixiloop/qool-helloworld-loop/Home.md    
+    For all other wiki pages, it is even simpler, because the name of the file is already part of the URL. You just need to add ".md" at the end.    
+        https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running    
+    And if you like to see the markdown source code of this README page, just enter the follwing URL:    
+        https://raw.githubusercontent.com/qoolixiloop/qool-markdown-loop/master/README.md    
+
+
+# Instructions, how to use Grip (together with an editor like Vim)
+     * Install Grip with:
+          $ sudo apt get grip    "on Ubuntu
+
+     * Move to your folder containing your md files with:  
+          $ cd /my_md_directory/  
+
+     * Start grip with:    
+          $ grip my_md_file.md    
+
+     * Open your browser and enter following URL:    
+          http://localhost:6419/    
+
+     * Open your file with your prefered editor. For Vim type:
+          $ vim my_md_file.md
+
+     * That's it! If you like to quit or change your folder just stop the server by pressing:    
+          Ctrl-D    
+
+     Now you can move to your other folder containing .md files and start Frip again.In case you don't like to restart Grip for each file, please visit:    
+           [my wiki page, which describes a clever navigation alternative.](https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser)
 
 
 # Instruction using vim and grip
@@ -48,20 +90,19 @@ not yet shared
 * If you like you can also visit my wiki page with a [navigation alternative](https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running)
 
 # Links
-> * main table of contents
+> * Main table of contents on GitHub:
 >   * [writing on github](https://help.github.com/categories/writing-on-github/)
-> * most useful subpages
+> * Most useful subpages:
 >   * [basic writing and formatting syntag](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
 >   * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
-> * markdown founder's official site  
+> * Markdown founder's official site:
 >   * [daringfireball](https://daringfireball.net/projects/markdown/)
-> * emojis list
+> * Emojis list:
 >   * [emojis](https://gist.github.com/rxaviers/7360908)
-> * grip preview tool
+> * Grip preview tool:
 >   * [grip on GitHub](https://github.com/joeyespo/grip)
-> * pandoc document conversion tool
+> * Pandoc document conversion tool:
 >   * [pandoc document converter](https://pandoc.org/)
-
 
 ------------------------
 qoolixiloop 6. Nov. 2018
