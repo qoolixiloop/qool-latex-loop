@@ -2,7 +2,7 @@
 
 ## 💖 Welcome Dear Friend!
 > You are visiting the qoolixiloop markdown repository. Please read on, if you like to find out, how you can profit from it.  
-> enjoy!  
+> Enjoy!  
 > :sparkles:
 
 
@@ -10,7 +10,7 @@
 > This site is all about you, getting started with your first website on GitHub. If you like to find out, what tools and information I prepared for you, then please click on the button below.
 >
 > <details>
-> <summary>📖  read more... </summary>
+> <summary> 📖  read more... </summary>
 >
 > ⏳
 >
@@ -21,7 +21,7 @@
 > Because you want to write Wiki pages on GitHub,  
 > but don't know how to start.  
 >
-> Because you want to write your code in your local editor, e.g. Vim,  
+> Because you want to write your markdown code in your local editor, e.g. Vim,  
 > but you are missing a preview in your browser.  
 >
 > Did you find anything?  
@@ -33,7 +33,7 @@
 > These web pages will give you a lot of inspiration to get you going quickly.  
 >
 > You will get instructions about a local browser preview tool.  
-> Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is near, to what you will see, after uploading it to GitHub.  
+> Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is close, to what you will see, after uploading it to GitHub.  
 >
 > You will get the links to official reference pages.  
 > So you won't have to click through your web search engine's top ten search results to get your needed "How to".  
@@ -46,11 +46,12 @@
 
 
 
-### Download my markdown files
+### 🎁 Download my markdown files
 > The files of my GitHub repositories are not yet ready to be shared. But there is no need to wait, because I am going to share a trick, about how you can access the source code of any markdown web page on GitHub. Let's make three examples:  
 >
 > <details>
-> > <summary>📖  show the examples </summary>
+> <summary> 📖  show the examples </summary>
+> 🎁
 >
 > 1. **Wiki Home.md:** This is the URL you see, when you visit my Wiki helloworld homepage:  
 >        https://github.com/qoolixiloop/qool-helloworld-loop/wiki  
@@ -62,18 +63,19 @@
 >        https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running.md  
 > 3. **README.md:** If you like to see the markdown source code of this README page, just enter the follwing URL or log into GitHub and click the "raw" button:  
 >        https://raw.githubusercontent.com/qoolixiloop/qool-markdown-loop/master/README.md  
+>
+> 🎁
 > </details>
 
 
 
 
-### Instructions on how to use Grip (and Vim)
+### 📜 🛠 Instructions on how to use the Grip markdown preview (and Vim)
 
 <details>
-> <summary>📖  show the instructions </summary>
->
-> :dizzy:
->
+<summary> 📖  show the instructions </summary>
+📜 🛠
+   
     * Install Grip with:  
          $ sudo apt get grip    "on Ubuntu
     
@@ -94,16 +96,18 @@
 
 * Now you can move to an other folder containing .md files and start Grip again. 
 * If you don't like to restart Grip for each file or folder, you can visit my wiki page, which describes a [navigation alternative.](https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser)
+
+📜 🛠
 </details>
 
 
 
 
-### Links
+### 🌎 Links
 > <details>
-> <summary>📖  show the links </summary>
+> <summary> 📖  show the links </summary>
 >
-> :dizzy:
+> 🌎
 >
 > * Main table of contents on GitHub:
 >   * [writing on github](https://help.github.com/categories/writing-on-github/)
@@ -119,15 +123,15 @@
 > * Pandoc document conversion tool:
 >   * [pandoc document converter](https://pandoc.org/)
 >
-> :dizzy:
+> 🌎
 > </details>
 
-
+ 
 
 
 ### 🗄️ qoolixiloop's repositories
 > <details>
-> <summary>📖  list of repositories </summary>
+> <summary> 📖  list of repositories </summary>
 >
 > 🗄️
 >
@@ -172,7 +176,7 @@
 
 #### About me
 > <details>
-> <summary>📖 show content about me</summary>
+> <summary> 📖 show content about me</summary>
 >
 > :revolving_hearts:
 >
@@ -180,12 +184,12 @@
 > There is a [personal repository][602] dedicated to hiring and collaboration. If you are located in Switzerland this is the place, where you can find some sort of CV and contact information.
 >
 > ##### Donations 
-> The qoolixiloop repositories will constantly be filled with great content. This service to the general public comes as a huge effort from my side. In case you are a wealthy person or an executive of a wealthy organization, not knowing, where to invest all the money that's pouring in, there is hope on the horizon. Below you will find my lonely and empty bank account, grateful and happy about any kind of attention. 
+> The qoolixiloop repositories will constantly be filled with great content. This service to the general public comes as a huge effort from my side. In case you are a wealthy person or an executive of a big organization, not knowing, where to invest all the money that's pouring in, there is hope on the horizon. Below you will find my lonely and empty bank account, grateful and happy about any kind of attention. 
 >
 > :revolving_hearts:
 >
 > <details>
-> <summary>📖 show details for a bank transfer </summary>
+> <summary> 📖 show details for a bank transfer </summary>
 >
 > :revolving_hearts:
 >
