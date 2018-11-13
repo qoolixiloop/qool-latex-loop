@@ -25,7 +25,8 @@
 > but you are missing a preview in your browser.  
 >
 > Did you find anything?  
-> Then please read on.  
+> Then please read on. 
+>   
 > ⏳
 >
 > #### How qoolixiloop intends to make his friends productive
@@ -40,6 +41,7 @@
 >
 > Does this already sound like Christmas?  
 > Then please read on.  
+>
 > ⏳
 > </details>
 
@@ -47,12 +49,13 @@
 
 
 ### 🎁 Download my markdown files
-> The files of my GitHub repositories are not yet ready to be shared. But there is no need to wait, because I am going to share a trick, about how you can access the source code of any markdown web page on GitHub. Let's make three examples:  
+> The files of my GitHub repositories are not yet ready to be shared. But there is no need to wait, because I am going to share a trick, about how you can access the source code of any markdown web page on GitHub. By clicking the button below, you will see the three different patterns on how to get access to the raw markdown text files.  
 >
 > <details>
 > <summary> 📖  show the examples </summary>
 > 🎁
 >
+>   
 > 1. **Wiki Home.md:** This is the URL you see, when you visit my Wiki helloworld homepage:  
 >        https://github.com/qoolixiloop/qool-helloworld-loop/wiki  
 >    * just add '/Home.md' as follows:  
@@ -71,65 +74,71 @@
 
 
 ### 📜 Instructions on how to use the Grip markdown preview (and Vim)
-
-<details>
-<summary> 📖  show the instructions </summary>
-📜
-   
-    * Install Grip with:  
-         $ sudo apt get grip    "on Ubuntu
-    
-    * Move to your folder containing your md files with:  
-         $ cd /my_md_directory/  
-    
-    * Start grip with:  
-         $ grip my_md_file.md  
-    
-    * Open your browser and enter following URL:  
-         http://localhost:6419/  
-    
-    * Open your file with your prefered editor. For Vim type:
-         $ vim my_md_file.md
-    
-    * That's it! If you like to quit or change your folder just stop the server by pressing:  
-         Ctrl-D  
-
-* Now you can move to an other folder containing .md files and start Grip again. 
-* If you don't like to restart Grip for each file or folder, you can visit my wiki page, which describes a [navigation alternative.](https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser)
-
-📜
+> The reason, why I write my code locally with Vim and not directly into the editor on GitHub, is because it is in many respects  so much more powerful. I have syntax highlighting, search and replace with regex, folding, macros and much more. The downside is, that I need a local preview tool like Grip, that parses the code correctly, but doesn't show every object in the same manner like GitHub itself. I assume GitHub is loaded with libraries and CSS classes in order to make the things look even nicer. But this is all right for me, I only need to know, if the API recognizes my table, and if it is even nicer after uploading onto GitHub, that is even better.
+> If that is also all right for you, you can click the button below. The steps show, how to install and run Grip and how to open the markdown file in Vim. It's easy, five steps and you can start writing the code for your website. And at the end is a link to one of my Wiki pages, which shows a better way, if you have several files in several different folders. (Spoiler alert: open Grip in the parent folder)
+>
+> <details>
+> <summary> 📖  show the instructions </summary>
+>
+> 📜
+>   
+>    * Install Grip with:  
+>         $ sudo apt get grip    "on Ubuntu
+>    
+>    * Move to your folder containing your md files with:  
+>         $ cd /my_md_directory/  
+>    
+>    * Start grip with:  
+>         $ grip my_md_file.md  
+>    
+>    * Open your browser and enter following URL:  
+>         http://localhost:6419/  
+>    
+>    * Open your file with your prefered editor. For Vim type:
+>         $ vim my_md_file.md
+>    
+>    * That's it! If you like to quit or change your folder just stop the server by pressing:  
+>         Ctrl-D  
+>
+> * Now you can move to an other folder containing .md files and start Grip again. 
+> * If you don't like to restart Grip for each file or folder, you can visit my wiki page, which describes a [navigation alternative.](https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser)
+>
+>📜
 </details>
 
 
 
 
 ### 🌎 Links
+>
+>
+>
 > <details>
 > <summary> 📖  show the links </summary>
 >
 > 🌎
 >
-> * Main table of contents on GitHub:
->   * [writing on github](https://help.github.com/categories/writing-on-github/)
-> * Most useful subpages:
->   * [basic writing and formatting syntag](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
->   * [mastering markdown](https://guides.github.com/features/mastering-markdown/)
-> * Markdown founder's official site:
->   * [daringfireball](https://daringfireball.net/projects/markdown/)
-> * Emojis list:
->   * [emojis](https://gist.github.com/rxaviers/7360908)
-> * Grip preview tool:
->   * [grip on GitHub](https://github.com/joeyespo/grip)
-> * Pandoc document conversion tool:
->   * [pandoc document converter](https://pandoc.org/)
+> | What the link provides                  | Link to website
+> |:--------------------------------------- | :----------------------------------------| 
+> * Main table of contents on GitHub:       | [writing on github][1]
+> * Most useful subpages:                   | [basic writing and formatting syntag][2]
+>   .                                       | [mastering markdown][3]
+> * Markdown founder's official site:       | [daringfireball][4]
+> * Emojis list:                            | [emojis][5]
+> * Grip preview tool:                      | [grip on GitHub][6]
+> * Pandoc document conversion tool:        | [pandoc document converter][7]
 >
 > 🌎
 > </details>
 
- 
+
 
 
 ### 🗄️ qoolixiloop's repositories
+>
+>
+>
+>
 > <details>
 > <summary> 📖  list of repositories </summary>
 >
@@ -174,7 +183,11 @@
 
 
 
-### 👨‍💻 About me
+### 💻 About me
+>
+>
+>
+>
 > <details>
 > <summary> 📖 show content about me</summary>
 >
@@ -227,9 +240,18 @@
 
 
 ------------------------
-qoolixiloop 6. Nov. 2018
+qoolixiloop 13. Nov. 2018
 
 
+
+
+[1](https://help.github.com/categories/writing-on-github/)
+[2](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+[3](https://guides.github.com/features/mastering-markdown/)
+[4](https://daringfireball.net/projects/markdown/)
+[5](https://gist.github.com/rxaviers/7360908)
+[6](https://github.com/joeyespo/grip)
+[7](https://pandoc.org/)
 
 [101]: https://github.com/qoolixiloop/qool-helloworld-loop "qool-helloworld-loop"
 [102]: https://github.com/qoolixiloop/qool-helloworld-loop/wiki "qool-helloworld-loop.wiki"
