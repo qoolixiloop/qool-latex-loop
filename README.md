@@ -110,7 +110,7 @@
 
 ### 🌎 Links
 > To share the links of web pages, which present their content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader can find the needed information. But often, even with the help of one's preferred search engine, one ends up spending one's time with searching instead of working.  
-> By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then you may consider clicking through any pages on GitHub you like, access their raw markdown text files as described [here](#download-my-markdown-files) and copy/paste whatever you need.
+> By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then you may consider clicking through any pages on GitHub you like, access their raw markdown text files as described [here](#-download-my-markdown-files) and copy/paste whatever you need.
 >
 > <details>
 > <summary> 📖  show the links </summary>
