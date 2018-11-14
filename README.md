@@ -1,4 +1,4 @@
-https://github.com/qoolixiloop/qool-markdown-loop/blob/master/README.md#-download-my-markdown-files# qool-markdown-loop
+qool-markdown-loop
 
 ## 💖 Welcome Dear Friend!
 > You are visiting the qoolixiloop markdown repository. Please read on, if you like to find out, how you can profit from it.  
@@ -257,7 +257,7 @@ qoolixiloop 13. Nov. 2018
 [6]: https://github.com/joeyespo/grip
 [7]: https://pandoc.org/
 
-[50]: (./README.md#-download-my-markdown-files)
+[50]: #-download-my-markdown-files
 
 [101]: https://github.com/qoolixiloop/qool-helloworld-loop "qool-helloworld-loop"
 [102]: https://github.com/qoolixiloop/qool-helloworld-loop/wiki "qool-helloworld-loop.wiki"
