@@ -201,7 +201,7 @@
 
 
 ### 💻 About me
-> My name is Roand Benz, I live in Zurich, Switzerland and decided to dedicate my time and knowledge to some projects on GitHub. By clicking the button below you will get all the necessary information with respect to hiring and donations.
+> My name is Roland Benz, I live in Zurich, Switzerland and decided to dedicate my time and knowledge to some projects on GitHub. By clicking the button below you will get all the necessary information with respect to hiring and donations.
 >
 > <details>
 > <summary> 📖 show content about me</summary>
