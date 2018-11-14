@@ -70,6 +70,8 @@
 > 3. **README.md:** If you like to see the markdown source code of this README page, just enter the follwing URL or log into GitHub and click the "raw" button.  
 >        https://<i></i>raw.githubusercontent.com<i></i>/qoolixiloop/qool-markdown-loop/master/README.md  
 >
+> * **On a side note:** Markdown is very easy to use but also rather limited if compaired with HTML. If special effects are needed, HTML tags can be used directly. Usually, that works quite well, but not always. If you want to know how I e.g. managed to make the links unclickable, try out the last trick and look directly into the raw Markdown file.
+>
 > 🎁
 > </details>
 
@@ -95,7 +97,7 @@
 >         $ grip my_md_file.md  
 >    
 >    * Open your browser and enter following URL:  
->         http://localhost:6419/my_md_file.md  
+>         http://<i></i>localhost:6419<i></i>/my_md_file.md  
 >    
 >    * Open your file with your prefered editor. For Vim just type:  
 >         $ vim my_md_file.md  
@@ -147,7 +149,7 @@
 >
 > 🗄️
 >
-> **Tmux and Vim as an IDE:** There are many good development environments availabe and some of them are quite expensive. Nevertheless or because of that, I mainly use Tmux and Vim as they are two very powerful terminal applications, which provide me with everything I need to write code efficiently. That being said, I must admit, that it is not easy to start with. That is why I shared my '.vim' folder and '.vimrc' configuration file, which both contain all the necessary instuctions to download the plugins and run Vim within minutes as an IDE for example for Python, Java or Bash.  
+> **Tmux and Vim as an IDE:** There are many good development environments availabe and some of them are quite expensive. Nevertheless or because of that, I mainly use Tmux and Vim as they are two very powerful terminal applications, which provide me with everything I need to write code efficiently. That being said, I must admit, that it is not easy to start with. That is why I shared my '.vim' folder and '.vimrc' configuration file, which both contain all the necessary instructions to download the plugins and run Vim within minutes as an IDE for example for Python, Java or Bash.  
 >
 > **Vim as a language:** Once I started programming with Vim, I immediately came into contact with Vim's own programming language, Vimscript. I even started to write my own little plugins and macros in Vimscript.  
 >
@@ -157,7 +159,7 @@
 >
 > **Linux Tools:** Bash and AWK are old, but still very powerful languages in the Unix/Linux command line world and even though the Linux kernel itself is written in C, many configuration scripts one may come across are written in Bash.  
 > There is already a lot of very good advice about Bash programming available in thick books as well as in form of snippets scattered around specialized blogs and webpages. But it is still hard to get started with. That is why I decided to create a small framework inside a template script, whose code itself is checked by the shellcheck project. The template e.g. contains a few instructions, which make use of a concept used in Python to run the script from within a main() function, which is useful if the script is sourced or executed within another script in order to access its functions.  
-> Furthermore I provided an extensive example script, in which I cover nearly everything one needs to write stable and reliable scripts. I actually use it, to automate my communication with GitHub. It also lets me do changes on all my GitHub files automatically by providing pattern search and replace, and it uses AWK to parse the script and automatically print help and documentation text into the shell.  
+> Furthermore, I provided an extensive example script, in which I cover nearly everything one needs to write stable and reliable scripts. I actually use it, to automate my communication with GitHub. It also lets me do changes on all my GitHub files automatically by providing pattern search and replace, and it uses AWK to parse the script and to automatically print help and documentation text into the shell.  
 >
 > | Links to repositories ('Ctrl-click' to open in new tab)         | Contents
 > |:-------------------------------| :----------------------------------------| 
