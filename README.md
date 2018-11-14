@@ -134,6 +134,7 @@
 
 
 ### 🗄️ qoolixiloop's repositories
+>
 > By clicking the button below you will see a table with links to my 15 Code and 15 Wiki repositories as well as a short description of what is already available. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools within the linux operating system universe.  
 > Because the learning curve for many of those tools and languages I used was steeper than necessary, I decided to provide some of my resources, references and examples, in order to help new learners better understand important topics.  
 >
@@ -142,13 +143,13 @@
 >
 > 🗄️
 >
-> **Tmux and Vim as an IDE:** There are many good development environments availabe and some of them are quite expensive. Nevertheless or because of that, I mainly use Tmux and Vim as they are two very powerful terminal applications, which provide me with everything I need to write code efficiently. That being said, I must admit, that it is not easy to start with. That is why I shared my .vim folder and .vimrc configuration file, which both contain all the necessary instuctions to download the plugins and run Vim within minutes as an IDE for example for Python, Java or Bash.  
+> **Tmux and Vim as an IDE:** There are many good development environments availabe and some of them are quite expensive. Nevertheless or because of that, I mainly use Tmux and Vim as they are two very powerful terminal applications, which provide me with everything I need to write code efficiently. That being said, I must admit, that it is not easy to start with. That is why I shared my '.vim' folder and '.vimrc' configuration file, which both contain all the necessary instuctions to download the plugins and run Vim within minutes as an IDE for example for Python, Java or Bash.  
 > **Vim as a language:** Once I started programming with Vim, I immediately came into contact with Vim's own programming language, Vimscript. I even started to write my own little plugins and macros in Vimscript.  
 > **Web Applications:** Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time.  
 > **C**: C is very low level compaired to newer languages, like Java or Python, many of which actually are implemented in C. C is clearly part of the low supply world, which means, that even though the language is still very useful for certain tasks, there are not many programmers left, that are able to understand it.  
 > **Linux Tools:** Bash and AWK are old, but still very powerful languages in the Unix/Linux command line world and even though the Linux kernel itself is written in C, many configuration scripts one may come across are written in Bash.  
-> There already much very good advice about Bash programming available in thick books as well as in form of snippets scattered around on blogs and webpages. But it still hard to get started with.  That is why I decided to create a small framework, whose code itself is checked by the shellcheck project. It contains a template, which makes use of a concept used in Python to run the script from within a main() function.  
-> Furthermore I provided an extensive example script, in which I cover nearly everything one needs to write stable and reliable scripts. I actually use it, to automate my communication with GitHub. It lets me do changes on all my GitHub files automatically by providing pattern search and replace, and it uses AWK to parse the script and automatically print help and documentation text into the shell.  
+> There is already a lot of very good advice about Bash programming available in thick books as well as in form of snippets scattered around specialized blogs and webpages. But it is still hard to get started with. That is why I decided to create a small framework inside a template, whose code itself is checked by the shellcheck project. The template e.g. contains a few instructions, which make use of a concept used in Python to run the script from within a main() function, which is useful if you you source or execute your script within another script in order to access its functions.  
+> Furthermore I provided an extensive example script, in which I cover nearly everything one needs to write stable and reliable scripts. I actually use it, to automate my communication with GitHub. It also lets me do changes on all my GitHub files automatically by providing pattern search and replace, and it uses AWK to parse the script and automatically print help and documentation text into the shell.  
 >
 > | Links to repositories          | Contents
 > |:-------------------------------| :----------------------------------------| 
@@ -201,7 +202,7 @@
 > There is a [personal repository][602] dedicated to hiring and collaboration. If you are located in Switzerland this is the place, where you can find some sort of CV and contact information.
 >
 > ##### Donations 
-> The qoolixiloop repositories will constantly be filled with great content. This service to the general public comes as a huge effort from my side. In case you are a wealthy person or an executive of a big organization, not knowing, where to invest all the money that's pouring in, there is hope on the horizon. Below you will find my lonely and empty bank account, grateful and happy about any kind of attention. 
+> The qoolixiloop repositories will constantly be filled with great content. This service to the general public comes as a huge effort from my side. In case you are a wealthy person or an executive of a big organization, not knowing, where to invest all the money that is pouring in, there is hope on the horizon. Below you will find my lonely and empty bank account, grateful and happy about any kind of attention. 
 >
 > :revolving_hearts:
 >
