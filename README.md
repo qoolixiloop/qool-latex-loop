@@ -31,7 +31,7 @@
 >
 > #### How qoolixiloop intends to make his friends productive
 > You will get access to all my README and Wiki markdown files.  
-> These web pages will give you a lot of inspiration to get you going quickly.  
+> These web pages will give you a lot of inspiration to become quickly productive.  
 >
 > You will get instructions about a local browser preview tool.  
 > Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is close, to what you will see, after uploading it to GitHub.  
@@ -54,7 +54,6 @@
 > <details>
 > <summary> 📖  show the examples </summary>
 > 🎁
->
 >   
 > 1. **Wiki Home.md:** This is the URL you see, when you visit my Wiki helloworld homepage:  
 >        https://github.com/qoolixiloop/qool-helloworld-loop/wiki  
@@ -75,7 +74,7 @@
 
 ### 📜 Instructions on how to use the Grip markdown preview (and Vim)
 > The reason why I write my code locally with Vim and not directly into the editor on GitHub, is because it is in many respects  so much more powerful. I have syntax highlighting, search and replace with regex, folding, macros and much more. The downside is, that I need a local preview tool like Grip. Even thought it parses the code correctly, it doesn't show every object in the same manner like GitHub itself. I assume that is because GitHub is loaded with libraries and CSS classes in order to make the things look even nicer. But this is all right for me, I only need to know, if the API recognizes my table, and if it is even nicer after uploading onto GitHub, that is even better.
-> If that is also all right for you, you can click the button below. The steps show, how to install and run Grip and how to open the markdown file in Vim. It's easy, five steps and you can start writing the code for your repository. And at the end is a link to one of my Wiki pages, which shows a better way, if you have several files in several different folders. (Spoiler alert: open Grip in the parent folder)
+> If that is also all right for you, you can click the button below. The steps show, how to install and run Grip and how to open the markdown file in Vim. It's easy, five steps and you can start writing the code for your repository. And at the end is a link to one of my Wiki pages, which shows a better way, if you have several files in several different folders. (Spoiler alert: open Grip in the parent folder.)
 >
 > <details>
 > <summary> 📖  show the instructions </summary>
@@ -101,7 +100,7 @@
 >         Ctrl-D  
 >
 > * Now you can move to an other folder containing .md files and start Grip again. 
-> * If you don't like to restart Grip for each file or folder, you can visit my wiki page, which describes a [navigation alternative.](https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser)
+> * If you don't like to restart Grip for each file or folder, you can visit my Wiki page, which describes a [navigation alternative.][1003]
 >
 >📜
 </details>
@@ -110,8 +109,8 @@
 
 
 ### 🌎 Links
-> To share my prefered links to web pages, which present the content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader he can find the needed information. But often, even with the help of the preferred search engine, one ends up spending the time with searching instead of working. 
->By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then click through pages on GitHub, access the raw markdown text file as described [here][50] and copy paste what you need.
+> To share my prefered links to web pages, which present the content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader can find the needed information. But often, even with the help of the preferred search engine, one ends up spending the time with searching instead of working. 
+>By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then click through pages on GitHub, access the raw markdown text files as described [here][50] and copy paste what you need.
 >
 > <details>
 > <summary> 📖  show the links </summary>
@@ -135,9 +134,7 @@
 
 
 ### 🗄️ qoolixiloop's repositories
-> By clicking the button below you will see a table with 15 Code and 15 Wiki repositories. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools and languages and the linux operating system. Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time. There is C which is a very low level language compaired to newer languages, like Java and Python, many of which are actually implemented in C. C is clearly part of the low supply world, which means that even though the language is still very powerful for certain tasks, there are not many programmers left, that are able to understand it. Bash and AWK are very powerful languages in the Linux command line world and even though the linux kernel is written in C, many configuration scripts are written in Bash. Once you start writing those programms you will come into contact with Vim and Tmux, and once you get used to it and never want something else you may even start to write your own little plugins and macros in Vimscript. 
->
->
+> By clicking the button below you will see a table with 15 Code and 15 Wiki repositories. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools and languages and the linux operating system. Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time. There is C which is a very low level language compaired to newer languages, like Java or Python, many of which actually are implemented in C. C is clearly part of the low supply world, which means that even though the language is still very powerful for certain tasks, there are not many programmers left, that are able to understand it. Bash and AWK are very powerful languages in the Linux command line world and even though the Linux kernel is written in C, many configuration scripts you come across are written in Bash. Once you start writing those programms you will come into contact with Vim and Tmux, and once you get used to it and never want another IDE, you may even start to write your own little plugins and macros in Vimscript. Because the learning curve for all those tools and languages is really steep, I decided to provide some of my resources, in order to help new learners climbing up the steep wall. I for instance share my .vim and .vimrc folder which contain the necessary instuctions to run Vim as an IDE for Python, Java or Bash. Since there is so much bad advice about Bash programming out there, I decided to create a small framework, with code which itself is check by the shellcheck app. It contains a template, which makes use of the concept of a main() function, very similar to that of Python. And I provide a huge example script, where I cover nearly everything you need to write good scripts. It automates my communication with GitHub, lets me do changes on all my GitHub files outomatically by providing pattern search and replace, and it uses AWK to automatically print help and documentation by starting the script with --help or --doc options.
 >
 > <details>
 > <summary> 📖  list of repositories </summary>
@@ -184,9 +181,8 @@
 
 
 ### 💻 About me
->
->
->
+> For about 10 years, I was permanently on job search, after which I decided to make another University degree and burn through all my money. Whenever I made it from top 500 into the top 3 I was badgered with those very intelligent interview questions, whose answers usually only are one grep- or google search away, and at the end of the third meeting I was tormented with those very intelligent psychology test, in which right is wrong and the other way round. When I was lucky, I got a temporary contract for a job one or two hours away from my home town with a 2 day notice period. Then, after a while I noticed that I was doing all the complicated work for everyone, and about which the highly paid managers could talk about on a very high level the whole day, five days a week, 220 days a year. And I started wondering how that business model is ever going to work out for me. After one year of broken promises and permanent insecurity, I was usually very sure about two things. No effort, no matter how exceptional, would ever be enough to get recognized and would lead to a contract, which I deserved and no money in the world would ever be enough, to work there any longer. Needless to say that not one of those big companies would have survived without bail out money or foreign investments and not one of them is still owned by local investors. As you may have guessed by now, I am no big fan of corporate Switzerland and the immigration policy of our government, which by the way breaks our federal constitution, makes it even worse. But I assume that is a global problem and we are here just at the forefront of it.
+>Now, the important part of that short introduction is that, whereas my work here is certainly a very satisfying service to the general public and far away from what I mentioned before, it is unfortunately unpaid hard work. That means that without, donations I will have to do what our big companies usually do, and ask the state for tax money.
 >
 > <details>
 > <summary> 📖 show content about me</summary>
@@ -275,6 +271,7 @@ qoolixiloop 13. Nov. 2018
 [902]: https://github.com/qoolixiloop/qool-linux-loop/wiki "qool-linux-loop/wiki"
 [1001]: https://github.com/qoolixiloop/qool-markdown-loop "qool-markdown-loop"
 [1002]: https://github.com/qoolixiloop/qool-markdown-loop/wiki "qool-markdown-loop/wiki"
+[1003]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser
 [1101]: https://github.com/qoolixiloop/qool-python-loop "qool-python-loop"
 [1102]: https://github.com/qoolixiloop/qool-python-loop/wiki "qool-python-loop/wiki"
 [1201]: https://github.com/qoolixiloop/qool-springboot-loop "qool-springboot-loop"
@@ -285,3 +282,4 @@ qoolixiloop 13. Nov. 2018
 [1402]: https://github.com/qoolixiloop/qool-vim-loop/wiki "qool-vim-loop/wiki"
 [1501]: https://github.com/qoolixiloop/qool-.vimrc-loop "qool-.vimrc-loop"
 [1502]: https://github.com/qoolixiloop/qool-.vimrc-loop/wiki "qool-.vimrc-loop/wiki"
+
