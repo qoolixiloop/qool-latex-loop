@@ -81,8 +81,8 @@
 >
 > 📜
 >   
->    * Install Grip with:  
->         $ sudo apt get grip    "on Ubuntu
+>    * Install Grip on Linux Ubuntu with:  
+>         $ sudo apt get grip  
 >    
 >    * Move to your folder containing your md files with:  
 >         $ cd /my_md_directory/  
@@ -93,13 +93,13 @@
 >    * Open your browser and enter following URL:  
 >         http://localhost:6419/  
 >    
->    * Open your file with your prefered editor. For Vim type:
+>    * Open your file with your prefered editor. For Vim type:  
 >         $ vim my_md_file.md
 >    
 >    * That's it! If you like to quit or change your folder just stop the server by pressing:  
 >         Ctrl-D  
 >
-> * Now you can move to an other folder containing .md files and start Grip again. 
+> * Now you can move to another folder containing .md files and start Grip again. 
 > * If you don't like to restart Grip for each file or folder, you can visit my Wiki page, which describes a [navigation alternative.][1003]
 >
 >📜
@@ -117,15 +117,15 @@
 >
 > 🌎
 >
-> | What the link provides                  | Link to website
-> |:--------------------------------------- | :----------------------------------------| 
-> * Main table of contents on GitHub:       | [writing on github][1]
-> * Most useful subpages:                   | [basic writing and formatting syntag][2]
->   .                                       | [mastering markdown][3]
-> * Markdown founder's official site:       | [daringfireball][4]
-> * Emojis list:                            | [emojis][5]
-> * Grip preview tool:                      | [grip on GitHub][6]
-> * Pandoc document conversion tool:        | [pandoc document converter][7]
+> | What the link provides                   | Link to website
+> |:---------------------------------------- | :----------------------------------------| 
+> | Main table of contents on GitHub         | [writing on github][1]  
+> | Most useful subpages                     | [basic writing and formatting syntax][2]  
+> | .                                        | [mastering markdown][3]  
+> | Markdown founder's official site         | [daringfireball][4]  
+> | Emojis list                              | [emojis][5]  
+> | Grip preview tool                        | [grip on GitHub][6]  
+> | Pandoc document conversion tool          | [pandoc document converter][7]  
 >
 > 🌎
 > </details>
@@ -134,7 +134,13 @@
 
 
 ### 🗄️ qoolixiloop's repositories
-> By clicking the button below you will see a table with 15 Code and 15 Wiki repositories. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools and languages and the linux operating system. Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time. There is C which is a very low level language compaired to newer languages, like Java or Python, many of which actually are implemented in C. C is clearly part of the low supply world, which means that even though the language is still very powerful for certain tasks, there are not many programmers left, that are able to understand it. Bash and AWK are very powerful languages in the Linux command line world and even though the Linux kernel is written in C, many configuration scripts you come across are written in Bash. Once you start writing those programms you will come into contact with Vim and Tmux, and once you get used to it and never want another IDE, you may even start to write your own little plugins and macros in Vimscript. Because the learning curve for all those tools and languages is really steep, I decided to provide some of my resources, in order to help new learners climbing up the steep wall. I for instance share my .vim and .vimrc folder which contain the necessary instuctions to run Vim as an IDE for Python, Java or Bash. Since there is so much bad advice about Bash programming out there, I decided to create a small framework, with code which itself is check by the shellcheck app. It contains a template, which makes use of the concept of a main() function, very similar to that of Python. And I provide a huge example script, where I cover nearly everything you need to write good scripts. It automates my communication with GitHub, lets me do changes on all my GitHub files outomatically by providing pattern search and replace, and it uses AWK to automatically print help and documentation by starting the script with --help or --doc options.
+> By clicking the button below you will see a table with 15 Code and 15 Wiki repositories. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools and languages and the linux operating system.  
+> Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time.  
+> There is C, which is a very low level language compaired to newer languages, like Java or Python, many of which actually are implemented in C. C is clearly part of the low supply world, which means that even though the language is still very powerful for certain tasks, there are not many programmers left, that are able to understand it.  
+> Bash and AWK are very powerful languages in the Linux command line world and even though the Linux kernel is written in C, many configuration scripts one may come across are written in Bash. Once I started writing those programms I immediately came into contact with Vim and Tmux, and once I got used to it I never wanted another IDE, and even started to write my own little plugins and macros in Vimscript.  
+> Because the learning curve for all those tools and languages is really steep, I decided to provide some of my resources, in order to help new learners to understand iportent topics. For instance I shared my .vim folder and .vimrc configuration file, which contain all the necessary instuctions to run Vim within minutes as an IDE for Python, Java or Bash.  
+> Because there is so much suboptimal advice about Bash programming out there, I decided to create a small framework, whose code itself is check by the shellcheck project. It contains a template, which makes use of the concept of a main() function, very similar to that in Python.  
+> Furthermore I provided a huge example script, where I cover nearly everything one needs to write good scripts. It automates my communication with GitHub, lets me do changes on all my GitHub files outomatically by providing Sed style pattern search and replace, and it uses AWK to parse the script and automatically print help and documentation text into the shell.
 >
 > <details>
 > <summary> 📖  list of repositories </summary>
@@ -181,8 +187,7 @@
 
 
 ### 💻 About me
-> For about 10 years, I was permanently on job search, after which I decided to make another University degree and burn through all my money. Whenever I made it from top 500 into the top 3 I was badgered with those very intelligent interview questions, whose answers usually only are one grep- or google search away, and at the end of the third meeting I was tormented with those very intelligent psychology test, in which right is wrong and the other way round. When I was lucky, I got a temporary contract for a job one or two hours away from my home town with a 2 day notice period. Then, after a while I noticed that I was doing all the complicated work for everyone, and about which the highly paid managers could talk about on a very high level the whole day, five days a week, 220 days a year. And I started wondering how that business model is ever going to work out for me. After one year of broken promises and permanent insecurity, I was usually very sure about two things. No effort, no matter how exceptional, would ever be enough to get recognized and would lead to a contract, which I deserved and no money in the world would ever be enough, to work there any longer. Needless to say that not one of those big companies would have survived without bail out money or foreign investments and not one of them is still owned by local investors. As you may have guessed by now, I am no big fan of corporate Switzerland and the immigration policy of our government, which by the way breaks our federal constitution, makes it even worse. But I assume that is a global problem and we are here just at the forefront of it.
->Now, the important part of that short introduction is that, whereas my work here is certainly a very satisfying service to the general public and far away from what I mentioned before, it is unfortunately unpaid hard work. That means that without, donations I will have to do what our big companies usually do, and ask the state for tax money.
+> My name is Roand Benz, I live in Zurich, Switzerland and decided to dedicate my time and knowledge to some projects on GitHub. By clicking the button below you will get some information with respect to hiring and donations.
 >
 > <details>
 > <summary> 📖 show content about me</summary>
@@ -241,15 +246,15 @@ qoolixiloop 13. Nov. 2018
 
 
 
-[1](https://help.github.com/categories/writing-on-github/)
-[2](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
-[3](https://guides.github.com/features/mastering-markdown/)
-[4](https://daringfireball.net/projects/markdown/)
-[5](https://gist.github.com/rxaviers/7360908)
-[6](https://github.com/joeyespo/grip)
-[7](https://pandoc.org/)
+[1]:https://help.github.com/categories/writing-on-github/
+[2]:https://help.github.com/articles/basic-writing-and-formatting-syntax/
+[3]:https://guides.github.com/features/mastering-markdown/
+[4]:https://daringfireball.net/projects/markdown/
+[5]:https://gist.github.com/rxaviers/7360908
+[6]:https://github.com/joeyespo/grip
+[7]:https://pandoc.org/
 
-[50](#Download-my-markdown-files)
+[50]:#download-my-markdown-files
 
 [101]: https://github.com/qoolixiloop/qool-helloworld-loop "qool-helloworld-loop"
 [102]: https://github.com/qoolixiloop/qool-helloworld-loop/wiki "qool-helloworld-loop.wiki"
