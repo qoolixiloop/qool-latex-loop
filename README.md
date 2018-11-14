@@ -74,8 +74,8 @@
 
 
 ### 📜 Instructions on how to use the Grip markdown preview (and Vim)
-> The reason, why I write my code locally with Vim and not directly into the editor on GitHub, is because it is in many respects  so much more powerful. I have syntax highlighting, search and replace with regex, folding, macros and much more. The downside is, that I need a local preview tool like Grip, that parses the code correctly, but doesn't show every object in the same manner like GitHub itself. I assume GitHub is loaded with libraries and CSS classes in order to make the things look even nicer. But this is all right for me, I only need to know, if the API recognizes my table, and if it is even nicer after uploading onto GitHub, that is even better.
-> If that is also all right for you, you can click the button below. The steps show, how to install and run Grip and how to open the markdown file in Vim. It's easy, five steps and you can start writing the code for your website. And at the end is a link to one of my Wiki pages, which shows a better way, if you have several files in several different folders. (Spoiler alert: open Grip in the parent folder)
+> The reason why I write my code locally with Vim and not directly into the editor on GitHub, is because it is in many respects  so much more powerful. I have syntax highlighting, search and replace with regex, folding, macros and much more. The downside is, that I need a local preview tool like Grip. Even thought it parses the code correctly, it doesn't show every object in the same manner like GitHub itself. I assume that is because GitHub is loaded with libraries and CSS classes in order to make the things look even nicer. But this is all right for me, I only need to know, if the API recognizes my table, and if it is even nicer after uploading onto GitHub, that is even better.
+> If that is also all right for you, you can click the button below. The steps show, how to install and run Grip and how to open the markdown file in Vim. It's easy, five steps and you can start writing the code for your repository. And at the end is a link to one of my Wiki pages, which shows a better way, if you have several files in several different folders. (Spoiler alert: open Grip in the parent folder)
 >
 > <details>
 > <summary> 📖  show the instructions </summary>
@@ -110,8 +110,8 @@
 
 
 ### 🌎 Links
->
->
+> To share my prefered links to web pages, which present the content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader he can find the needed information. But often, even with the help of the preferred search engine, one ends up spending the time with searching instead of working. 
+>By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then click through pages on GitHub, access the raw markdown text file as described [here][50] and copy paste what you need.
 >
 > <details>
 > <summary> 📖  show the links </summary>
@@ -135,7 +135,7 @@
 
 
 ### 🗄️ qoolixiloop's repositories
->
+> By clicking the button below you will see a table with 15 Code and 15 Wiki repositories. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools and languages and the linux operating system. Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time. There is C which is a very low level language compaired to newer languages, like Java and Python, many of which are actually implemented in C. C is clearly part of the low supply world, which means that even though the language is still very powerful for certain tasks, there are not many programmers left, that are able to understand it. Bash and AWK are very powerful languages in the Linux command line world and even though the linux kernel is written in C, many configuration scripts are written in Bash. Once you start writing those programms you will come into contact with Vim and Tmux, and once you get used to it and never want something else you may even start to write your own little plugins and macros in Vimscript. 
 >
 >
 >
@@ -157,7 +157,7 @@
 > [qool-c-loop][501]               | Code snippets
 > [qool-c-loop.wiki][502]          | Comments and language specific resources
 > [qool-cv-loop][601]              | My CV
-> [qool-cv-loop.wiki][602]         | About donations
+> [qool-cv-loop.wiki][602]         | About me
 > [qool-git-loop][701]             | Code snippets to automate tasks
 > [qool-git-loop.wiki][702]        | Use cases and reference tables
 > [qool-java-loop][801]            | Code snippets
@@ -252,6 +252,8 @@ qoolixiloop 13. Nov. 2018
 [5](https://gist.github.com/rxaviers/7360908)
 [6](https://github.com/joeyespo/grip)
 [7](https://pandoc.org/)
+
+[50](#Download-my-markdown-files)
 
 [101]: https://github.com/qoolixiloop/qool-helloworld-loop "qool-helloworld-loop"
 [102]: https://github.com/qoolixiloop/qool-helloworld-loop/wiki "qool-helloworld-loop.wiki"
