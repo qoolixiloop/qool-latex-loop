@@ -123,7 +123,7 @@
 >
 > 🌎
 >
-> | What the link provides                   | Link to website
+> | What the link provides ('Ctrl-click' to open in new tab) | Link to website
 > |:---------------------------------------- | :----------------------------------------| 
 > | Main table of contents on GitHub         | [writing on github][1]  
 > | Most useful subpages                     | [basic writing and formatting syntax][2]  
@@ -290,7 +290,7 @@ qoolixiloop 13. Nov. 2018
 [902]: https://github.com/qoolixiloop/qool-linux-loop/wiki "qool-linux-loop/wiki"
 [1001]: https://github.com/qoolixiloop/qool-markdown-loop "qool-markdown-loop"
 [1002]: https://github.com/qoolixiloop/qool-markdown-loop/wiki "qool-markdown-loop/wiki"
-[1003]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/how-to-navigate-your-filesystem-in-your-browser
+[1003]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running
 [1101]: https://github.com/qoolixiloop/qool-python-loop "qool-python-loop"
 [1102]: https://github.com/qoolixiloop/qool-python-loop/wiki "qool-python-loop/wiki"
 [1201]: https://github.com/qoolixiloop/qool-springboot-loop "qool-springboot-loop"
@@ -301,4 +301,3 @@ qoolixiloop 13. Nov. 2018
 [1402]: https://github.com/qoolixiloop/qool-vim-loop/wiki "qool-vim-loop/wiki"
 [1501]: https://github.com/qoolixiloop/qool-.vimrc-loop "qool-.vimrc-loop"
 [1502]: https://github.com/qoolixiloop/qool-.vimrc-loop/wiki "qool-.vimrc-loop/wiki"
-
