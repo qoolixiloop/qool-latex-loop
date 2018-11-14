@@ -74,7 +74,7 @@
 
 ### 📜 Instructions on how to use the Grip markdown preview (and Vim)
 > The reason why I write my code locally with Vim and not directly into the editor on GitHub, is because it is in many respects  so much more powerful. I have syntax highlighting, search and replace with regex, folding, macros and much more. The downside is, that I need a local preview tool like Grip. Even thought it parses the code correctly, it doesn't show every object in the same manner like GitHub itself. I assume that is because GitHub is loaded with libraries and CSS classes in order to make the things look even nicer. But this is all right for me, I only need to know, if the API recognizes my table, and if it is even nicer after uploading onto GitHub, that is even better.
-> If that is also all right for you, you can click the button below. The steps show, how to install and run Grip and how to open the markdown file in Vim. It's easy, five steps and you can start writing the code for your repository. And at the end is a link to one of my Wiki pages, which shows a better way, if you have several files in several different folders. (Spoiler alert: open Grip in the parent folder.)
+> If that is also all right for you, you can click the button below. The steps show, how to install and run Grip and how to open the markdown file in Vim. It's easy, five steps and you can start writing the markdown text for your own repositories. And at the end you will find a link to one of my Wiki pages, which shows a better way, if you have several files in several different folders. (Spoiler alert: open Grip in the parent folder.)
 >
 > <details>
 > <summary> 📖  show the instructions </summary>
@@ -100,7 +100,7 @@
 >         Ctrl-D  
 >
 > * Now you can move to another folder containing '.md' files and start Grip again. 
-> * If you don't like to restart Grip for each file or folder, you can visit my Wiki page, which describes a [browser navigation alternative.][1003]
+> * If you don't like to restart Grip for each file or folder, you can visit my Wiki page, which describes a [browser navigation alternative for Grip.][1003]
 >
 >📜
 </details>
@@ -110,7 +110,7 @@
 
 ### 🌎 Links
 > To share the links of web pages, which present their content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader can find the needed information. But often, even with the help of one's preferred search engine, one ends up spending one's time with searching instead of working.  
-> By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then you may consider clicking through pages on GitHub, access their raw markdown text files as described [here][50] and copy/paste what you need.
+> By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then you may consider clicking through any pages on GitHub you like, access their raw markdown text files as described [here][50] and copy/paste whatever you need.
 >
 > <details>
 > <summary> 📖  show the links </summary>
@@ -142,7 +142,7 @@
 >
 > 🗄️
 >
-> **Tmux and Vim as an IDE:** There are many good development environments availabe and some of them are quite expensive. Nevertheless, I mainly use Tmux and Vim because they are two very powerful terminal applications. But it is not easy to start with. That's why I shared my .vim folder and .vimrc configuration file, which both contain all the necessary instuctions to download the plugins and run Vim within minutes as an IDE for example for Python, Java or Bash.  
+> **Tmux and Vim as an IDE:** There are many good development environments availabe and some of them are quite expensive. Nevertheless or because of that, I mainly use Tmux and Vim as they are two very powerful terminal applications, which provide me with everything I need to write code efficiently. That being said, I must admit, that it is not easy to start with. That is why I shared my .vim folder and .vimrc configuration file, which both contain all the necessary instuctions to download the plugins and run Vim within minutes as an IDE for example for Python, Java or Bash.  
 > **Vim as a language:** Once I started programming with Vim, I immediately came into contact with Vim's own programming language, Vimscript. I even started to write my own little plugins and macros in Vimscript.  
 > **Web Applications:** Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time.  
 > **C**: C is very low level compaired to newer languages, like Java or Python, many of which actually are implemented in C. C is clearly part of the low supply world, which means, that even though the language is still very useful for certain tasks, there are not many programmers left, that are able to understand it.  
@@ -249,15 +249,15 @@ qoolixiloop 13. Nov. 2018
 
 
 
-[1]:https://help.github.com/categories/writing-on-github/
-[2]:https://help.github.com/articles/basic-writing-and-formatting-syntax/
-[3]:https://guides.github.com/features/mastering-markdown/
-[4]:https://daringfireball.net/projects/markdown/
-[5]:https://gist.github.com/rxaviers/7360908
-[6]:https://github.com/joeyespo/grip
-[7]:https://pandoc.org/
+[1]: https://help.github.com/categories/writing-on-github/
+[2]: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+[3]: https://guides.github.com/features/mastering-markdown/
+[4]: https://daringfireball.net/projects/markdown/
+[5]: https://gist.github.com/rxaviers/7360908
+[6]: https://github.com/joeyespo/grip
+[7]: https://pandoc.org/
 
-[50]:#download-my-markdown-files
+[50]: (#download-my-markdown-files)
 
 [101]: https://github.com/qoolixiloop/qool-helloworld-loop "qool-helloworld-loop"
 [102]: https://github.com/qoolixiloop/qool-helloworld-loop/wiki "qool-helloworld-loop.wiki"
