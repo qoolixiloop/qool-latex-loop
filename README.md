@@ -55,15 +55,15 @@
 > <summary> 📖  show the examples </summary>
 > 🎁
 >   
-> 1. **Wiki Home.md:** This is the URL you see, when you visit my Wiki helloworld homepage:  
+> 1. **Wiki Home.md:** This is the URL you see, when you visit my Wiki helloworld homepage.  
 >        https://github.com/qoolixiloop/qool-helloworld-loop/wiki  
 >    * just add '/Home.md' as follows:  
 >        https://github.com/qoolixiloop/qool-helloworld-loop/Wiki/Home.md  
->    * and you will be relocated to the following URL, where you can see the markdown source:  
+>    * and you will be relocated to the following URL, where you can see the markdown source.  
 >        https://raw.githubusercontent.com/wiki/qoolixiloop/qool-helloworld-loop/Home.md  
 > 2. **Wiki pages:** For all other Wiki pages, it is even simpler, because the name of the file is already part of the URL. You just need to add '.md' at the end.  
 >        https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running.md  
-> 3. **README.md:** If you like to see the markdown source code of this README page, just enter the follwing URL or log into GitHub and click the "raw" button:  
+> 3. **README.md:** If you like to see the markdown source code of this README page, just enter the follwing URL or log into GitHub and click the "raw" button.  
 >        https://raw.githubusercontent.com/qoolixiloop/qool-markdown-loop/master/README.md  
 >
 > 🎁
