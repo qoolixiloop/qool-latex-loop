@@ -34,7 +34,7 @@
 > These web pages will give you a lot of inspiration to become quickly productive.  
 >
 > You will get instructions about a local browser preview tool.  
-> Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is close, to what you will see, after uploading it to GitHub.  
+> Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is close to what you will see, after uploading it to GitHub.  
 >
 > You will get the links to official reference pages.  
 > So you won't have to click through your web search engine's top ten search results to get your needed "How to".  
@@ -87,20 +87,20 @@
 >    * Move to your folder containing your md files with:  
 >         $ cd /my_md_directory/  
 >    
->    * Start grip with:  
+>    * Start Grip with:  
 >         $ grip my_md_file.md  
 >    
 >    * Open your browser and enter following URL:  
->         http://localhost:6419/  
+>         http://localhost:6419/my_md_file.md  
 >    
->    * Open your file with your prefered editor. For Vim type:  
->         $ vim my_md_file.md
+>    * Open your file with your prefered editor. For Vim just type:  
+>         $ vim my_md_file.md  
 >    
->    * That's it! If you like to quit or change your folder just stop the server by pressing:  
+>    * That's it! If you like to quit or change your folder just stop the Grip server by pressing:  
 >         Ctrl-D  
 >
-> * Now you can move to another folder containing .md files and start Grip again. 
-> * If you don't like to restart Grip for each file or folder, you can visit my Wiki page, which describes a [navigation alternative.][1003]
+> * Now you can move to another folder containing '.md' files and start Grip again. 
+> * If you don't like to restart Grip for each file or folder, you can visit my Wiki page, which describes a [browser navigation alternative.][1003]
 >
 >📜
 </details>
@@ -109,8 +109,8 @@
 
 
 ### 🌎 Links
-> To share my prefered links to web pages, which present the content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader can find the needed information. But often, even with the help of the preferred search engine, one ends up spending the time with searching instead of working. 
->By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then click through pages on GitHub, access the raw markdown text files as described [here][50] and copy paste what you need.
+> To share the links of web pages, which present their content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader can find the needed information. But often, even with the help of one's preferred search engine, one ends up spending one's time with searching instead of working.  
+> By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then you may consider clicking through pages on GitHub, access their raw markdown text files as described [here][50] and copy/paste what you need.
 >
 > <details>
 > <summary> 📖  show the links </summary>
@@ -134,18 +134,21 @@
 
 
 ### 🗄️ qoolixiloop's repositories
-> By clicking the button below you will see a table with 15 Code and 15 Wiki repositories. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools and languages and the linux operating system.  
-> Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time.  
-> There is C, which is a very low level language compaired to newer languages, like Java or Python, many of which actually are implemented in C. C is clearly part of the low supply world, which means that even though the language is still very powerful for certain tasks, there are not many programmers left, that are able to understand it.  
-> Bash and AWK are very powerful languages in the Linux command line world and even though the Linux kernel is written in C, many configuration scripts one may come across are written in Bash. Once I started writing those programms I immediately came into contact with Vim and Tmux, and once I got used to it I never wanted another IDE, and even started to write my own little plugins and macros in Vimscript.  
-> Because the learning curve for all those tools and languages is really steep, I decided to provide some of my resources, in order to help new learners to understand iportent topics. For instance I shared my .vim folder and .vimrc configuration file, which contain all the necessary instuctions to run Vim within minutes as an IDE for Python, Java or Bash.  
-> Because there is so much suboptimal advice about Bash programming out there, I decided to create a small framework, whose code itself is check by the shellcheck project. It contains a template, which makes use of the concept of a main() function, very similar to that in Python.  
-> Furthermore I provided a huge example script, where I cover nearly everything one needs to write good scripts. It automates my communication with GitHub, lets me do changes on all my GitHub files outomatically by providing Sed style pattern search and replace, and it uses AWK to parse the script and automatically print help and documentation text into the shell.
+> By clicking the button below you will see a table with links to my 15 Code and 15 Wiki repositories as well as a short description of what is already available. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools within the linux operating system universe.  
+> Because the learning curve for many of those tools and languages I used was steeper than necessary, I decided to provide some of my resources, references and examples, in order to help new learners better understand important topics.  
 >
 > <details>
 > <summary> 📖  list of repositories </summary>
 >
 > 🗄️
+>
+> **Tmux and Vim as an IDE:** There are many good development environments availabe and some of them are quite expensive. Nevertheless, I mainly use Tmux and Vim because they are two very powerful terminal applications. But it is not easy to start with. That's why I shared my .vim folder and .vimrc configuration file, which both contain all the necessary instuctions to download the plugins and run Vim within minutes as an IDE for example for Python, Java or Bash.  
+> **Vim as a language:** Once I started programming with Vim, I immediately came into contact with Vim's own programming language, Vimscript. I even started to write my own little plugins and macros in Vimscript.  
+> **Web Applications:** Google's Angular2 and the Springboot framework are part of the high demand trendy Java world. We used it at the University to build a multi-player online strategy game, which I intend to share as a tutorial. But that will certainly take some time.  
+> **C**: C is very low level compaired to newer languages, like Java or Python, many of which actually are implemented in C. C is clearly part of the low supply world, which means, that even though the language is still very useful for certain tasks, there are not many programmers left, that are able to understand it.  
+> **Linux Tools:** Bash and AWK are old, but still very powerful languages in the Unix/Linux command line world and even though the Linux kernel itself is written in C, many configuration scripts one may come across are written in Bash.  
+> There already much very good advice about Bash programming available in thick books as well as in form of snippets scattered around on blogs and webpages. But it still hard to get started with.  That is why I decided to create a small framework, whose code itself is checked by the shellcheck project. It contains a template, which makes use of a concept used in Python to run the script from within a main() function.  
+> Furthermore I provided an extensive example script, in which I cover nearly everything one needs to write stable and reliable scripts. I actually use it, to automate my communication with GitHub. It lets me do changes on all my GitHub files automatically by providing pattern search and replace, and it uses AWK to parse the script and automatically print help and documentation text into the shell.  
 >
 > | Links to repositories          | Contents
 > |:-------------------------------| :----------------------------------------| 
@@ -187,7 +190,7 @@
 
 
 ### 💻 About me
-> My name is Roand Benz, I live in Zurich, Switzerland and decided to dedicate my time and knowledge to some projects on GitHub. By clicking the button below you will get some information with respect to hiring and donations.
+> My name is Roand Benz, I live in Zurich, Switzerland and decided to dedicate my time and knowledge to some projects on GitHub. By clicking the button below you will get all the necessary information with respect to hiring and donations.
 >
 > <details>
 > <summary> 📖 show content about me</summary>
