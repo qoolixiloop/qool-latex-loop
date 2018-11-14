@@ -14,14 +14,14 @@
 >
 > ⏳
 >
-> #### Why could you profit from this repository?
-> Because you want to write README.md files on GitHub,  
+> #### Why could you profit from the content of this repository?
+> * Because you want to write README.md files on GitHub,  
 > but need some examples as inspiration.  
 >
-> Because you want to write Wiki pages on GitHub,  
+> * Because you want to write Wiki pages on GitHub,  
 > but don't know how to start.  
 >
-> Because you want to write your markdown code in your local editor, e.g. Vim,  
+> * Because you want to write your markdown code in your local editor, e.g. Vim,  
 > but you are missing a preview in your browser.  
 >
 > Did you find anything?  
@@ -29,14 +29,14 @@
 >   
 > ⏳
 >
-> #### How qoolixiloop intends to make his friends productive
-> You will get access to all my README and Wiki markdown files.  
+> #### How the qoolixiloop repositories intend to make his friends productive
+> * You will get access to all my README and Wiki markdown files.  
 > These web pages will give you a lot of inspiration to become quickly productive.  
 >
-> You will get instructions about a local browser preview tool.  
+> * You will get instructions about a local browser preview tool.  
 > Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is close to what you will see, after uploading it to GitHub.  
 >
-> You will get the links to official reference pages.  
+> * You will get the links to official reference pages.  
 > So you won't have to click through your web search engine's top ten search results to get your needed "How to".  
 >
 > Does this already sound like Christmas?  
