@@ -79,7 +79,7 @@
 
 
 ### 📜 Instructions on how to use the Grip markdown preview (and Vim)
-> The reason why I write my code locally with Vim and not directly into the editor on GitHub, is because it is in many respects  so much more powerful. I have syntax highlighting, search and replace with regex, folding, macros and much more. The downside is, that I need a local preview tool like Grip. Even thought it parses the code correctly, it doesn't show every object in the same manner like GitHub itself. I assume that is because GitHub is loaded with libraries and CSS classes in order to make the things look even nicer. But this is all right for me, I only need to know, if the API recognizes my table, and if it is even nicer after uploading onto GitHub, that is even better.
+> The reason why I write my code locally with Vim and not directly into the editor on GitHub, is because it is in many respects so much more powerful. I have syntax highlighting, search and replace with regex, folding, macros and much more. The downside is, that I need a local preview tool like Grip. Even thought it parses the code correctly, it doesn't show every object in the same manner like GitHub itself. I assume that is because GitHub is loaded with libraries and CSS classes in order to make the things look even nicer. But this is all right for me, I only need to know, if the API recognizes my table, and if it is even nicer after uploading onto GitHub, that is even better.
 > If that is also all right for you, you can click the button below. The steps show, how to install and run Grip and how to open the markdown file in Vim. It's easy, five steps and you can start writing the markdown text for your own repositories. And at the end you will find a link to one of my Wiki pages, which shows a better way, if you have several files in several different folders. (Spoiler alert: open Grip in the parent folder.)
 >
 > <details>
@@ -260,15 +260,7 @@ qoolixiloop 13. Nov. 2018
 
 
 
-[1]: https://help.github.com/categories/writing-on-github/
-[2]: https://help.github.com/articles/basic-writing-and-formatting-syntax/
-[3]: https://guides.github.com/features/mastering-markdown/
-[4]: https://daringfireball.net/projects/markdown/
-[5]: https://gist.github.com/rxaviers/7360908
-[6]: https://github.com/joeyespo/grip
-[7]: https://pandoc.org/
-
-[50]: #-download-my-markdown-files
+[//]: # (Personal Comment: Links for Code README.md and Wiki Home.md)
 
 [101]: https://github.com/qoolixiloop/qool-helloworld-loop "qool-helloworld-loop"
 [102]: https://github.com/qoolixiloop/qool-helloworld-loop/wiki "qool-helloworld-loop.wiki"
@@ -290,7 +282,6 @@ qoolixiloop 13. Nov. 2018
 [902]: https://github.com/qoolixiloop/qool-linux-loop/wiki "qool-linux-loop/wiki"
 [1001]: https://github.com/qoolixiloop/qool-markdown-loop "qool-markdown-loop"
 [1002]: https://github.com/qoolixiloop/qool-markdown-loop/wiki "qool-markdown-loop/wiki"
-[1003]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running
 [1101]: https://github.com/qoolixiloop/qool-python-loop "qool-python-loop"
 [1102]: https://github.com/qoolixiloop/qool-python-loop/wiki "qool-python-loop/wiki"
 [1201]: https://github.com/qoolixiloop/qool-springboot-loop "qool-springboot-loop"
@@ -301,3 +292,39 @@ qoolixiloop 13. Nov. 2018
 [1402]: https://github.com/qoolixiloop/qool-vim-loop/wiki "qool-vim-loop/wiki"
 [1501]: https://github.com/qoolixiloop/qool-.vimrc-loop "qool-.vimrc-loop"
 [1502]: https://github.com/qoolixiloop/qool-.vimrc-loop/wiki "qool-.vimrc-loop/wiki"
+
+
+[//]: # (Personal Comment: Links for additional Wiki pages)
+
+[1003]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running
+ [1503]: https://github.com/qoolixiloop/qool-.vimrc-loop/wiki/My-.vimrc-configruation-file-explained-in-detail
+
+
+[//]: # (Personal Comment: Links for qool-markdown-loop)
+
+[1]: https://help.github.com/categories/writing-on-github/
+[2]: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+[3]: https://guides.github.com/features/mastering-markdown/
+[4]: https://daringfireball.net/projects/markdown/
+[5]: https://gist.github.com/rxaviers/7360908
+[6]: https://github.com/joeyespo/grip
+[7]: https://pandoc.org/
+[50]: #-download-my-markdown-files
+
+
+[//]: # (Personal Comment: Links for qool-vim-loop and qool-.vimrc-loop)
+
+[11]: http://vim.wikia.com/wiki/Vim_Tips_Wiki
+[12]: http://learnvimscriptthehardway.stevelosh.com/
+[13]: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
+[14]: https://stackoverflow.com
+[15]: http://fprintf.net/vimCheatSheet.html
+
+
+[//]: # (Personal Comment: qool-git-loop)
+
+[21]: http://rogerdudler.github.io/git-guide/
+[22]: https://git-scm.com/book/en/v2
+[23]: http://www-cs-students.stanford.edu/~blynn/gitmagic/ch02.html
+[24]: https://stackoverflow.com
+
