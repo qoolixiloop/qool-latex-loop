@@ -7,7 +7,7 @@
 
 
 ### ⏳ TL;DR 
-> This site is all about you, getting started with your first website on GitHub. If you like to find out, what tools and information I prepared for you, then please click on the button below.
+> This site is all about you, getting started with **your first website on GitHub**. Among others things, I am going to show you how to add a **Paypal donate button** to your website. If you like to find out, about all the other tools and information I prepared for you, then please click on the button below.
 >
 > <details>
 > <summary> 📖  read more... </summary>
@@ -128,7 +128,7 @@
 >
 > | What the link provides | Link to website ('Ctrl-click' to open in new tab) 
 > |:---------------------------------------- | :----------------------------------------| 
-> | +relevant links to websites:+            |
+> | `relevant links to websites:`            |
 > | - Main table of contents on GitHub       | [writing on github][1]  
 > | - GitHub chapter to start with           | [basic writing and formatting syntax][2]  
 > | - GitHub chapter                         | [mastering markdown][3]  
@@ -136,7 +136,7 @@
 > | - Emojis list                            | [emojis][5]  
 > | - Grip preview tool                      | [grip on GitHub][6]  
 > | - Pandoc document conversion tool        | [pandoc document converter][7]  
-> | +relavant links to my wiki pages:+       |
+> | `relavant links to my wiki pages:`       |
 > | - (empty list)                           |
 > |                                          |
 >  🌎
@@ -258,18 +258,11 @@
 > </details>
 >
 > </details>
-
-<div>
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="ZJSNJNBGL8MVE" />
-<input type="image" src="https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_CH/i/scr/pixel.gif" width="1" height="1" />
-</form>
-</div>
-
+>    
+[![paypal](https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJSNJNBGL8MVE&source=url)  
+>
 ------------------------
-qoolixiloop 13. Nov. 2018
+qoolixiloop, 13. Nov. 2018  
 
 
 
