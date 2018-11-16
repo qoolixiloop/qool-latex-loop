@@ -14,6 +14,9 @@
 >
 > ⏳
 >
+> #### Word of advice 
+>
+>
 > #### Why could you profit from the content of this repository?
 > * Because you want to write README.md files on GitHub,  
 > but need some examples as inspiration.  
@@ -123,17 +126,20 @@
 >
 > 🌎
 >
-> | What the link provides ('Ctrl-click' to open in new tab) | Link to website
+> | What the link provides | Link to website ('Ctrl-click' to open in new tab) 
 > |:---------------------------------------- | :----------------------------------------| 
-> | Main table of contents on GitHub         | [writing on github][1]  
-> | Most useful subpages                     | [basic writing and formatting syntax][2]  
-> | .                                        | [mastering markdown][3]  
-> | Markdown founder's official site         | [daringfireball][4]  
-> | Emojis list                              | [emojis][5]  
-> | Grip preview tool                        | [grip on GitHub][6]  
-> | Pandoc document conversion tool          | [pandoc document converter][7]  
->
-> 🌎
+> | +relevant links to websites:+            |
+> | - Main table of contents on GitHub       | [writing on github][1]  
+> | - GitHub chapter to start with           | [basic writing and formatting syntax][2]  
+> | - GitHub chapter                         | [mastering markdown][3]  
+> | - Markdown founder's official site       | [daringfireball][4]  
+> | - Emojis list                            | [emojis][5]  
+> | - Grip preview tool                      | [grip on GitHub][6]  
+> | - Pandoc document conversion tool        | [pandoc document converter][7]  
+> | +relavant links to my wiki pages:+       |
+> | - (empty list)                           |
+> |                                          |
+>  🌎
 > </details>
 
 
@@ -253,6 +259,14 @@
 >
 > </details>
 
+<div>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="ZJSNJNBGL8MVE" />
+<input type="image" src="https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+<img alt="" border="0" src="https://www.paypal.com/en_CH/i/scr/pixel.gif" width="1" height="1" />
+</form>
+</div>
 
 ------------------------
 qoolixiloop 13. Nov. 2018
