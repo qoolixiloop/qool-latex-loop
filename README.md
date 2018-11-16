@@ -1,4 +1,4 @@
-# qool-markdown-loop
+<h1 align="center"> qool-markdown-loop </h1>
 
 ## 💖 Welcome Dear Friend!
 > You are visiting the qoolixiloop markdown repository. Please read on, if you like to find out, how you can profit from it.  
@@ -258,9 +258,13 @@
 > </details>
 >
 > </details>
->    
-[![paypal](https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJSNJNBGL8MVE&source=url)  
->
+
+<p align="center">
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZJSNJNBGL8MVE&source=url" target="_blank">
+  <img src="https://www.paypalobjects.com/en_US/CH/i/btn/btn_donateCC_LG.gif"/>
+</a>  
+</p>
+
 ------------------------
 qoolixiloop, 13. Nov. 2018  
 
