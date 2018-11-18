@@ -146,12 +146,12 @@
 
 
 ### 🗄️ qoolixiloop's repositories
->
-> By clicking the button below you will see a table with links to my 15 Code and 15 Wiki repositories as well as a short description of what is already available. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on free and open source tools within the linux operating system universe.  
-> Because the learning curve for many of those tools and languages I used was steeper than necessary, I decided to provide some of my resources, references and examples, in order to help new learners better understand important topics.  
+ >
+> By clicking the button below you will see a table with links to my 15 Code and 15 Wiki repositories as well as a short description of what already is available. They cover a small subset of programming languages I learned during the last 20 or so years. The focus is mainly on, but not limited to, free and open source tools within the linux operating system universe.  
+> Because the learning curve for many of those tools and languages I used was steeper than necessary, I decided to provide some of my resources, references and examples in order to help new learners better understand important topics.  
 >
 > <details>
-> <summary> 📖  list of repositories </summary>
+>  <summary> 📖  list of repositories </summary>
 >
 > 🗄️
 >
@@ -201,6 +201,7 @@
 > [qool-.vimrc-loop.wiki][1502]    | how it works
 >
 > 🗄️
+
 > </details>
 
 
@@ -212,7 +213,7 @@
 > <details>
 > <summary> 📖 show content about me</summary>
 >
-> :revolving_hearts:
+> :dizzy:
 >
 > ##### Hiring and Collaboration
 > There is a [personal repository][602] dedicated to hiring and collaboration. If you are located in Switzerland this is the place, where you can find some sort of CV and contact information.
@@ -220,41 +221,41 @@
 > ##### Donations 
 > The qoolixiloop repositories will constantly be filled with great content. This service to the general public comes as a huge effort from my side. In case you are a wealthy person or an executive of a big organization, not knowing, where to invest all the money that is pouring in, there is hope on the horizon. Below you will find my lonely and empty bank account, grateful and happy about any kind of attention. 
 >
-> :revolving_hearts:
+> :dizzy:
 >
 > <details>
 > <summary> 📖 show details for a bank transfer </summary>
 >
-> :revolving_hearts:
+> :dizzy:
 >
 > Details for a bank transfer to my account   
 > Informations pour un virement bancaire sur mon compte   
 > Detalles para una transferencia bancaria a mi cuenta   
 > Angaben für eine Überweisungen auf mein Konto   
 >
-> | :revolving_hearts:                  | Details / Information / Detalles / Angaben  
+> | :dizzy:                  | Details / Information / Detalles / Angaben  
 > | :--------------------------- | :--------------------------------------- |   
 > BIC (SWIFT-Code) of my bank | POFICHBEXXX   
 > BIC (SWIFT-Code) de ma banque | POFICHBEXXX   
 > BIC (SWIFT-Code) de mi banco | POFICHBEXXX 
 > BIC (SWIFT-Code) meiner Bank |	POFICHBEXXX   
-> :revolving_hearts: | :revolving_hearts: |
+> :dizzy: | :dizzy: |
 > Name/Adresse of my bank |  PostFinance AG, Mingerstrasse 20, 3030 Bern, Switzerland   
 > Nom et adresse de ma banque | PostFinance AG, Mingerstrasse 20, 3030 Bern, Suisse   
 > Nombre y dirección de mi banco | PostFinance AG, Mingerstrasse 20, 3030 Bern, Suiza  
 > Name/Adresse meiner Bank |  PostFinance AG, Mingerstrasse 20, 3030 Bern, Schweiz   
-> :revolving_hearts: | :revolving_hearts: |
+> :dizzy: | :dizzy: |
 > My account number (IBAN)   |  CH08 0900 0000 8007 4635 1   
 > Mon numéro de compte |  CH08 0900 0000 8007 4635 1   
 > Mi número de cuenta |  CH08 9000 0000 8007 4635 1   
 > Meine Kontonummer (IBAN)   |  CH08 0900 0000 8007 4635 1   
-> :revolving_hearts: | :revolving_hearts: |
+> :dizzy: | :dizzy: |
 > My name and address | Roland Benz, Felsber 2, 8052 Zurich, Switzerland   
 > Mon nom et adresse  | Roland Benz, Felsber 2, 8052 Zurich, Suisse   
 > Mi nombre y dirección | Roland Benz, Felsberg 2, 8052 Zurich, Suiza   
 > Mein Name und Adresse  | Roland Benz, Felsberg 2, 8052 Zürich, Schweiz	 
 >
-> :revolving_hearts:
+> :dizzy:
 > </details>
 >
 > </details>
@@ -271,7 +272,19 @@ qoolixiloop, 13. Nov. 2018
 
 
 
-[//]: # (Personal Comment: Links for Code README.md and Wiki Home.md)
+[//]: # (links only needed for 'qool-markdown-loop')
+
+[1]: https://help.github.com/categories/writing-on-github/
+[2]: https://help.github.com/articles/basic-writing-and-formatting-syntax/
+[3]: https://guides.github.com/features/mastering-markdown/
+[4]: https://daringfireball.net/projects/markdown/
+[5]: https://gist.github.com/rxaviers/7360908
+[6]: https://github.com/joeyespo/grip
+[7]: https://pandoc.org/
+[50]: #-download-my-markdown-files
+
+
+[//]: # (github.com links of 'Code: README.md' and 'Wiki: Home.md')
 
 [101]: https://github.com/qoolixiloop/qool-helloworld-loop "qool-helloworld-loop"
 [102]: https://github.com/qoolixiloop/qool-helloworld-loop/wiki "qool-helloworld-loop.wiki"
@@ -305,37 +318,13 @@ qoolixiloop, 13. Nov. 2018
 [1502]: https://github.com/qoolixiloop/qool-.vimrc-loop/wiki "qool-.vimrc-loop/wiki"
 
 
-[//]: # (Personal Comment: Links for additional Wiki pages)
+[//]: # (github.com links of all other 'Wiki: pages.md')
 
+[703]: https://github.com/qoolixiloop/qool-git-loop/wiki/a-.gitignore-template
+[704]: https://github.com/qoolixiloop/qool-git-loop/wiki/commands-and-graphical-representation
 [1003]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running
- [1503]: https://github.com/qoolixiloop/qool-.vimrc-loop/wiki/My-.vimrc-configruation-file-explained-in-detail
+[1004]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/add-paypal-button
+[1005]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/add-images
+[1503]: https://github.com/qoolixiloop/qool-.vimrc-loop/wiki/My-.vimrc-configruation-file-explained-in-detail
 
-
-[//]: # (Personal Comment: Links for qool-markdown-loop)
-
-[1]: https://help.github.com/categories/writing-on-github/
-[2]: https://help.github.com/articles/basic-writing-and-formatting-syntax/
-[3]: https://guides.github.com/features/mastering-markdown/
-[4]: https://daringfireball.net/projects/markdown/
-[5]: https://gist.github.com/rxaviers/7360908
-[6]: https://github.com/joeyespo/grip
-[7]: https://pandoc.org/
-[50]: #-download-my-markdown-files
-
-
-[//]: # (Personal Comment: Links for qool-vim-loop and qool-.vimrc-loop)
-
-[11]: http://vim.wikia.com/wiki/Vim_Tips_Wiki
-[12]: http://learnvimscriptthehardway.stevelosh.com/
-[13]: http://www.viemu.com/a_vi_vim_graphical_cheat_sheet_tutorial.html
-[14]: https://stackoverflow.com
-[15]: http://fprintf.net/vimCheatSheet.html
-
-
-[//]: # (Personal Comment: qool-git-loop)
-
-[21]: http://rogerdudler.github.io/git-guide/
-[22]: https://git-scm.com/book/en/v2
-[23]: http://www-cs-students.stanford.edu/~blynn/gitmagic/ch02.html
-[24]: https://stackoverflow.com
 
