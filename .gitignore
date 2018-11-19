@@ -1,23 +1,21 @@
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# file:     .gitignore                                                        #
-# author:   Roland Benz, Zurich, Switzerland                                  #
-# date:     05.Nov.2018                                                       #
+# file:     .gitignore
+# author:   Roland Benz, Zurich, Switzerland
+# date:     18.Nov.2018
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# IGNORE PATTERN                                                              #
+# IGNORE PATTERN
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # ignore filesnames in current directory: 
 # IGNORE:   "./DIRCURRENT/FILENAME.filetype"
 # NOT:      "../sub_dir/filename.filetype"
 /TODO
-/SCRATCHPAD
 
 # ignore directorynames in ANY directory: 
 # IGNORE:   "../DIRNAME/.." 
-pictures/
 build/
 
 # ignore filetypes in directoryname:
@@ -45,7 +43,7 @@ doc/**/*.pdf
 *.a
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# REVERSE ABOVE IGNORE PATTERN                                                #
+# REVERSE ABOVE IGNORE PATTERN
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
 # track filename.filetype in ANY directory
@@ -54,12 +52,12 @@ doc/**/*.pdf
 
 
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# IGNORE BUNCH OF APP SPECIFIC PATTERNS                                       #
+# IGNORE BUNCH OF APP SPECIFIC PATTERNS
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 
-# # # #
-# VIM # 
-# # # #
+# # # # #
+# VIM
+# # # # #
 
 # Swap
 [._]*.s[a-v][a-z]
