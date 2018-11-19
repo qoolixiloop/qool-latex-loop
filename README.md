@@ -33,7 +33,7 @@
 >   
 > ⏳
 >
-> #### How the qoolixiloop repositories intend to make his friends productive
+> #### How qoolixiloop's repository intend to make his friends productive
 > * You will get access to all my README and Wiki markdown files.  
 > These web pages will give you a lot of inspiration to become quickly productive.  
 >
@@ -43,15 +43,13 @@
 > * You will get the links to official reference pages.  
 > So you won't have to click through your web search engine's top ten search results to get your needed "How to".  
 >
-> * Last but not least, I have made my own [Wiki pages][] for you. They mostly cover special topics, that require advanced knowledge about HTML. Mainly things I wanted for myself, like [placing pictures and text][], where I want them to show up or embed a [donate button][].
+> * Last but not least, I have made my own [Wiki pages][1002] for you. They mostly cover special topics, that require advanced knowledge about HTML. Mainly things I wanted for myself, like [placing pictures and text][1005], where I want them to show up or embed a [donate button][1004].
 >
 > Does this already sound like Christmas?  
 > Then please read on.  
 >
 > ⏳
 > </details>
-
-
 
 
 ### 🎁 Download my markdown files
@@ -80,8 +78,6 @@
 >
 > 🎁
 > </details>
-
-
 
 
 ### 📜 Instructions on how to use the Grip markdown preview (and Vim)
@@ -118,8 +114,6 @@
 </details>
 
 
-
-
 ### 🌎 Links
 > To share the links of web pages, which present their content in a clear and easy to read manner is one of the main objectives of my repositories. There is no need to reinvent the wheel, because most of the time there are already excellent resources out there, where the reader can find the needed information. But often, even with the help of one's preferred search engine, one ends up spending one's time with searching instead of working.  
 > By clicking the button below you will see the links of my top seven sites for markdown on GitHub. If you still struggle with the syntax, then you may consider clicking through any pages on GitHub you like, access their raw markdown text files as described [here][50] and copy/paste whatever you need.
@@ -144,8 +138,6 @@
 > |                                          |
 >  🌎
 > </details>
-
-
 
 
 ### 🗄️ qoolixiloop's repositories
@@ -208,8 +200,6 @@
 > </details>
 
 
-
-
 ### 💻 About me
 > My name is Roland Benz, I live in Zurich, Switzerland and decided to dedicate my time and knowledge to some projects on GitHub. By clicking the button below you will get all the necessary information with respect to hiring and donations.
 >
@@ -270,7 +260,7 @@
 </p>
 
 ------------------------
-qoolixiloop, 13. Nov. 2018  
+qoolixiloop, 19. Nov. 2018  
 
 
 
