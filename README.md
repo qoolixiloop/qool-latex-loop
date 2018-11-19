@@ -1,7 +1,7 @@
 <h1 align="center"> qool-markdown-loop </h1>
 
 ## 💖 Welcome Dear Friend!
-> You are visiting the qoolixiloop markdown repository. Please read on, if you like to find out, how you can profit from it.  
+> You are visiting the qoolixiloop **markdown** repository. Please read on, if you like to find out, how you can profit from it.  
 > Enjoy!  
 > :sparkles:
 
@@ -15,7 +15,8 @@
 > ⏳
 >
 > #### Word of advice 
->
+> Markdown itself is a wonderful invention. Its intention was, to make webside code readable and looking like normal text. The consequence is, that it is not quite that powerful as HTML, which on the other hand is not very userfriendly. If you need special features, then you may try out HTML itself. But do not try to mix it with markdown elements inside the same line. This usually won't work out.  
+> GitHub uses its own markdown dialect. This means, that certain features you see on other websides and which you are trying to integrate in your own GitHub website will probably not work as expected. This includes HTML. Not everything will be recognized by the markdown parser.  
 >
 > #### Why could you profit from the content of this repository?
 > * Because you want to write README.md files on GitHub,  
@@ -41,6 +42,8 @@
 >
 > * You will get the links to official reference pages.  
 > So you won't have to click through your web search engine's top ten search results to get your needed "How to".  
+>
+> * Last but not least, I have made my own [Wiki pages][] for you. They mostly cover special topics, that require advanced knowledge about HTML. Mainly things I wanted for myself, like [placing pictures and text][], where I want them to show up or embed a [donate button][].
 >
 > Does this already sound like Christmas?  
 > Then please read on.  
@@ -320,7 +323,7 @@ qoolixiloop, 13. Nov. 2018
 
 [//]: # (github.com links of all other 'Wiki: pages.md')
 
-[703]: https://github.com/qoolixiloop/qool-git-loop/wiki/a-.gitignore-template
+[703]: https://github.com/qoolixiloop/qool-git-loop/wiki/a-.gitignore-templateza
 [704]: https://github.com/qoolixiloop/qool-git-loop/wiki/commands-and-graphical-representation
 [1003]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running
 [1004]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/add-paypal-button
