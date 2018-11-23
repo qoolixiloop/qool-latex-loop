@@ -284,9 +284,9 @@ qoolixiloop, 19. Nov. 2018
 [201]: https://github.com/qoolixiloop/qool-angular2-loop "qool-angular2-loop"
 [202]: https://github.com/qoolixiloop/qool-angular2-loop/wiki "qool-angular2-loop.wiki"
 [301]: https://github.com/qoolixiloop/qool-awk-loop "qool-awk-loop"
-[302]: https://github.com/qoolixiloop/qool-awk-loop/ "wikiqool-awk-loop.wiki"
+[302]: https://github.com/qoolixiloop/qool-awk-loop/wiki "wikiqool-awk-loop.wiki"
 [401]: https://github.com/qoolixiloop/qool-bash-loop "qool-bash-loop"
-[402]: https://github.com/qoolixiloop/qool-bash-loop/ "wikiqool-bash-loop.wiki"
+[402]: https://github.com/qoolixiloop/qool-bash-loop/wiki "wikiqool-bash-loop.wiki"
 [501]: https://github.com/qoolixiloop/qool-c-loop "qool-c-loop"
 [502]: https://github.com/qoolixiloop/qool-c-loop/wiki "qool-c-loop/wiki"
 [601]: https://github.com/qoolixiloop/qool-cv-loop "qool-cv-loop"
@@ -313,11 +313,25 @@ qoolixiloop, 19. Nov. 2018
 
 [//]: # (github.com links of all other 'Wiki: pages.md')
 
+[303]: https://github.com/qoolixiloop/qool-awk-loop/wiki/awk-cheet-sheet
+[304]: https://github.com/qoolixiloop/qool-awk-loop/wiki/bash-script-with-awk-to-learn-from-example
+[403]: https://github.com/qoolixiloop/qool-bash-loop/wiki/bash-script-to-learn-from-example
+[404]: https://github.com/qoolixiloop/qool-bash-loop/wiki/bash-script-template
+[405]: https://github.com/qoolixiloop/qool-bash-loop/wiki/bash-scripting-cheetsheet
+[406]: https://github.com/qoolixiloop/qool-bash-loop/wiki/bash-scripting-reference-cards
 [703]: https://github.com/qoolixiloop/qool-git-loop/wiki/a-.gitignore-templateza
 [704]: https://github.com/qoolixiloop/qool-git-loop/wiki/commands-and-graphical-representation
+[903]: https://github.com/qoolixiloop/qool-linux-loop/wiki/sed-in-a-nutshell
+[904]: https://github.com/qoolixiloop/qool-linux-loop/wiki/bash-script-with-sed-to-learn-from-example
+[905]: https://github.com/qoolixiloop/qool-linux-loop/wiki/grep-in-a-nutshell
+[906]: https://github.com/qoolixiloop/qool-linux-loop/wiki/bash-script-with-grep-to-learn-from-example
+[907]: https://github.com/qoolixiloop/qool-linux-loop/wiki/cut-in-a-nutshell
 [1003]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/browser-navigation-with-grip-running
 [1004]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/add-paypal-button
 [1005]: https://github.com/qoolixiloop/qool-markdown-loop/wiki/add-images
+[1303]: https://github.com/qoolixiloop/qool-tmux-loop/wiki/pair-programming-with-tmate
+[1304]: https://github.com/qoolixiloop/qool-tmux-loop/wiki/tmux-cheet-sheet
+[1305]: https://github.com/qoolixiloop/qool-tmux-loop/wiki/tmux-start-up-script
 [1503]: https://github.com/qoolixiloop/qool-.vimrc-loop/wiki/My-.vimrc-configruation-file-explained-in-detail
 
 
