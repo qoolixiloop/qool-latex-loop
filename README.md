@@ -1,7 +1,7 @@
 <h1 align="center"> qool-markdown-loop </h1>
 
 ## 💖 Welcome Dear Friend!
-> You are visiting the qoolixiloop **markdown** repository. Please read on, if you like to find out, how you can profit from it.  
+> You are visiting the qoolixiloop **Markdown** repository. Please read on, if you like to find out, how you can profit from it.  
 > Enjoy!  
 > :sparkles:
 
@@ -38,7 +38,7 @@
 > These web pages will give you a lot of inspiration to become quickly productive.  
 >
 > * You will get instructions about a local browser preview tool.  
-> Its name is Grip, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is close to what you will see, after uploading it to GitHub.  
+> Its name is **GRIP**, and it allows you to preview your markdown web pages in your browser, before you commit and upload them to GitHub. Because it uses the GitHub API, your preview is close to what you will see, after uploading it to GitHub.  
 >
 > * You will get the links to official reference pages.  
 > So you won't have to click through your web search engine's top ten search results to get your needed "How to".  
