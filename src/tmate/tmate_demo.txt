@@ -8,9 +8,10 @@ use TMATE. With TMATE you can share your shell with others. It can for example
 be used for pair-programming. So, let's get started, with this little demo
 classic!
 
-👍 But a little announcement first: Some of us might have a hearing impairment.
-This demo-tutorial is also made for you! There is no voice or sound, you can
-just watch, read and learn.
+👍 But a pleasant announcement first: I wrote a clever software that writes my
+tutorials to the screen. There is no voice or sound, you can just watch, read
+and learn. This is especially useful in noisy surroundings or for someone with
+a hearing impairment.  
 
 Enjoy!
 
@@ -22,60 +23,67 @@ Enjoy!
 
 💚 ME, AT THE TOP: The Shell at the top, that's me, in Zurich, Switzerland.
 
-💙 YOU, MY FRIEND IN THE MIDDLE: The Shell in the middle, that's you, sitting
+🧡 YOU, MY FRIEND IN THE MIDDLE: The Shell in the middle, that's you, sitting
 in a park of your hometown with your laptop in front of you.
 
-🧡 ANOTHER FRIEND, AT THE BOTTOM: The Browser at the bottom, that's a friend or
+🖤 ANOTHER FRIEND, AT THE BOTTOM: The Browser at the bottom, that's a friend or
 our boss, just lying on the beach and watching, what we are working on.
 
 ==============================================================================
 [wait]
 ==============================================================================
 
-💫 Now, let's connect the two Sshells and the Browser and start doing some pair-programming together!
+💫 Now, let's connect the two Shells and the Browser and start doing some
+pair-programming together!
 
 💚 ME, INITIATING A TMATE SESSION 💚
 This is what I am doing to initiate a new tmux/tmate session:
 
-🌺 1.) First, I enter 'tmate' into my shell and press the return key.
-
-🌺 2.) Tmate now wants to now my SSH key passphrase. So, this is what I do, I
+🌺 1.) First, I enter 'tmate' into my Shell and press the return key.
+[wait]
+🌺 2.) Tmate now wants my SSH key passphrase. So, this is what I am doing, I
 just enter my passphrase.
-
+[wait]
 🌺 3.) On the status line, one of the session keys is shown for some short
 period of time and then disappears again. The right session key, that is what
-you both need to join the session. So let's get all the keys back.
+you both need, to join the session. So let's get all the keys back.
 
-- To access the status line I enter 'Ctrl-B :' 
-
+- To access the status line I press 'Ctrl-B :' 
+[wait]
 - And in the status line I enter 'show-messages'
-
+[wait]
 - I can select the keys by holding down the Shift- and LeftMouse-Keys, moving themouse cursor and then pressing Ctrl-Shift-c
-
-🌺 4.) Finally, I send the session key per email or chat to you and our friend. The first key in the list is read only for the browser. The last key in the list is read and write for the shell.
+[wait]
+🌺 4.) Finally, I send the session key per email or chat to you and our friend.
+The first key in the list is read only for the browser. The last key in the
+list is read and write for the shell.
 
 ==============================================================================
 [wait]
 ==============================================================================
 
-💙 YOU, JOINING THE SESSION 💙
+🧡 YOU, JOINING THE SESSION 🧡
 This is what you do to join the session: 
 
 🌺 1.) Read my email or chat message.
 🌺 2.) Copy/paste the sent ssh key into your shell. 
-
-That's it! Now we can work together on our code.
+[wait]
+🌺 3.) Tmate now wants your personal SSH passphrase. Just enter your SSH
+passphrase and press enter. 
+[wait]
+That's it! Now we can work together on our code. As you can see, I just got a
+message, that you have joined the session.
 
 ==============================================================================
 [wait]
 ==============================================================================
 
-🧡 OUR FRIEND, JOINING THE SESSION 🧡
+🖤 OUR FRIEND, JOINING THE SESSION 🖤
 This is what our friend is doing to join the session: 
 
 🌺 1.) She/he reads my email or chat message.
-🌺 2.) Copy/pastes the sent https key into his/her shell. 
-
+🌺 2.) Copy/pastes the sent https key into his/her Browser. 
+[wait]
 That's it! Now she/he can watch us and learn.
 
 ==============================================================================
@@ -90,4 +98,6 @@ my little demo-tutorial, you might also consider clicking the Paypal-Donate
 button on one of my GitHub-Webpages, and send me a little thank you present for
 my hard work.
 
+https://github.com/qoolixiloop/qool-tmux-loop/wiki/pair-programming-with-tmate
+[wait]
 💞 Love you, and see you next time!
