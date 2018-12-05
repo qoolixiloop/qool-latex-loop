@@ -1,8 +1,8 @@
 
 💖 Hello my Dear Friends!
 
-🐻 Thats me, some minutes ago.
-
+🐻 That's me, some minutes ago. 
+[wait]
 💫 And this is the environment for my little demo-tutorial, that shows how to
 use TMATE. With TMATE you can share your shell with others. It can for example
 be used for pair-programming. So, let's get started, with this little demo
@@ -15,6 +15,8 @@ just watch, read and learn.
 Enjoy!
 
 ==============================================================================
+[wait]
+==============================================================================
 
 💫 First, let us assume the following:
 
@@ -26,6 +28,8 @@ in a park of your hometown with your laptop in front of you.
 🧡 ANOTHER FRIEND, AT THE BOTTOM: The Browser at the bottom, that's a friend or
 our boss, just lying on the beach and watching, what we are working on.
 
+==============================================================================
+[wait]
 ==============================================================================
 
 💫 Now, let's connect the two Sshells and the Browser and start doing some pair-programming together!
@@ -51,6 +55,8 @@ you both need to join the session. So let's get all the keys back.
 🌺 4.) Finally, I send the session key per email or chat to you and our friend. The first key in the list is read only for the browser. The last key in the list is read and write for the shell.
 
 ==============================================================================
+[wait]
+==============================================================================
 
 💙 YOU, JOINING THE SESSION 💙
 This is what you do to join the session: 
@@ -59,6 +65,9 @@ This is what you do to join the session:
 🌺 2.) Copy/paste the sent ssh key into your shell. 
 
 That's it! Now we can work together on our code.
+
+==============================================================================
+[wait]
 ==============================================================================
 
 🧡 OUR FRIEND, JOINING THE SESSION 🧡
@@ -68,6 +77,9 @@ This is what our friend is doing to join the session:
 🌺 2.) Copy/pastes the sent https key into his/her shell. 
 
 That's it! Now she/he can watch us and learn.
+
+==============================================================================
+[wait]
 ==============================================================================
 
 💫 I hope you enjoyed my TMUX/TMATE demo-tutorial!
