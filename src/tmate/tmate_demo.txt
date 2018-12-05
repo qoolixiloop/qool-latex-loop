@@ -1,0 +1,81 @@
+
+💖 Hello my Dear Friends!
+
+🐻 Thats me, some minutes ago.
+
+💫 And this is the environment for my little demo-tutorial, that shows how to
+use TMATE. With TMATE you can share your shell with others. It can for example
+be used for pair-programming. So, let's get started, with this little demo
+classic!
+
+👍 But a little announcement first: Some of us might have a hearing impairment.
+This demo-tutorial is also made for you! There is no voice or sound, you can
+just watch, read and learn.
+
+Enjoy!
+
+==============================================================================
+
+💫 First, let us assume the following:
+
+💚 ME, AT THE TOP: The Shell at the top, that's me, in Zurich, Switzerland.
+
+💙 YOU, MY FRIEND IN THE MIDDLE: The Shell in the middle, that's you, sitting
+in a park of your hometown with your laptop in front of you.
+
+🧡 ANOTHER FRIEND, AT THE BOTTOM: The Browser at the bottom, that's a friend or
+our boss, just lying on the beach and watching, what we are working on.
+
+==============================================================================
+
+💫 Now, let's connect the two Sshells and the Browser and start doing some pair-programming together!
+
+💚 ME, INITIATING A TMATE SESSION 💚
+This is what I am doing to initiate a new tmux/tmate session:
+
+🌺 1.) First, I enter 'tmate' into my shell and press the return key.
+
+🌺 2.) Tmate now wants to now my SSH key passphrase. So, this is what I do, I
+just enter my passphrase.
+
+🌺 3.) On the status line, one of the session keys is shown for some short
+period of time and then disappears again. The right session key, that is what
+you both need to join the session. So let's get all the keys back.
+
+- To access the status line I enter 'Ctrl-B :' 
+
+- And in the status line I enter 'show-messages'
+
+- I can select the keys by holding down the Shift- and LeftMouse-Keys, moving themouse cursor and then pressing Ctrl-Shift-c
+
+🌺 4.) Finally, I send the session key per email or chat to you and our friend. The first key in the list is read only for the browser. The last key in the list is read and write for the shell.
+
+==============================================================================
+
+💙 YOU, JOINING THE SESSION 💙
+This is what you do to join the session: 
+
+🌺 1.) Read my email or chat message.
+🌺 2.) Copy/paste the sent ssh key into your shell. 
+
+That's it! Now we can work together on our code.
+==============================================================================
+
+🧡 OUR FRIEND, JOINING THE SESSION 🧡
+This is what our friend is doing to join the session: 
+
+🌺 1.) She/he reads my email or chat message.
+🌺 2.) Copy/pastes the sent https key into his/her shell. 
+
+That's it! Now she/he can watch us and learn.
+==============================================================================
+
+💫 I hope you enjoyed my TMUX/TMATE demo-tutorial!
+
+🎁 Please subscribe to my channel, if you want me to - maybe some day - get
+some bucks from YouTube, or even from a real employer. And if you really liked
+my little demo-tutorial, you might also consider clicking the Paypal-Donate
+button on one of my GitHub-Webpages, and send me a little thank you present for
+my hard work.
+
+💞 Love you, and see you next time!
